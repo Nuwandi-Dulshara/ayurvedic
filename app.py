@@ -104,7 +104,7 @@ def get_suggestions(query, k=12):
 # ---------------------------
 st.set_page_config(page_title="Ayurvedic Risk Predictor 🌿", page_icon="🌿", layout="centered")
 
-st.title("🌿 Ayurvedic Disease & Dosha Risk Predictor")
+st.title("🌿 Ayurvedic Disease Dosha and Risk Predictor")
 st.markdown("🔍 *Type a symptom, pick from auto-suggestions, and see the predicted disease group, dosha, and risk level.*")
 
 # --- Autocomplete searchbox ---
