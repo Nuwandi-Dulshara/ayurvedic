@@ -1,0 +1,6 @@
+# Ignore Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore large model files
+*.pkl
+*.joblib

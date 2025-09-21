@@ -1,0 +1,1796 @@
+﻿Symptom,Disease,Disease group (English name),Disease group (Sinhala name),Dosha types
+Fever,Jvara,Endogenous,Nija Roga,Pitta
+Chills with fever,Jvara,Endogenous,Nija Roga,Vata and Pitta
+Sweating,Jvara,Endogenous,Nija Roga,Pitta
+Thirst with fever,Jvara,Endogenous,Nija Roga,Pitta
+Loss of appetite,Ajeerna,Endogenous,Nija Roga,Kapha
+Abdominal bloating,Ajeerna,Endogenous,Nija Roga,Vata
+Indigestion,Ajeerna,Endogenous,Nija Roga,Kapha
+Nausea,Ajeerna,Endogenous,Nija Roga,Pitta and Kapha
+Vomiting,Chhardi,Endogenous,Nija Roga,Pitta
+Acid reflux,Amlapitta,Endogenous,Nija Roga,Pitta
+Burning chest sensation,Amlapitta,Endogenous,Nija Roga,Pitta
+Sour belching,Amlapitta,Endogenous,Nija Roga,Pitta
+Epigastric pain,Amlapitta,Endogenous,Nija Roga,Pitta
+Loose stools,Atisara,Endogenous,Nija Roga,Vata and Pitta
+Watery diarrhea,Atisara,Endogenous,Nija Roga,Pitta
+Abdominal cramps,Atisara,Endogenous,Nija Roga,Vata
+Mucus in stools,Atisara,Endogenous,Nija Roga,Kapha
+Chronic diarrhea,Grahani,Endogenous,Nija Roga,Vata and Pitta
+Undigested food in stool,Grahani,Endogenous,Nija Roga,Vata
+Weight loss with diarrhea,Grahani,Endogenous,Nija Roga,Vata and Pitta
+Frequent urination,Prameha,Endogenous,Nija Roga,Kapha
+Sweet-smelling urine,Prameha,Endogenous,Nija Roga,Kapha
+Cloudy urine,Prameha,Endogenous,Nija Roga,Kapha
+Excessive thirst,Prameha,Endogenous,Nija Roga,Pitta
+Fatigue,Prameha,Endogenous,Nija Roga,Kapha
+Blurred vision,Prameha,Endogenous,Nija Roga,Kapha
+Slow wound healing,Prameha,Endogenous,Nija Roga,Kapha
+Skin itching,Prameha,Endogenous,Nija Roga,Pitta
+Obesity,Sthoulya,Endogenous,Nija Roga,Kapha
+Lethargy,Sthoulya,Endogenous,Nija Roga,Kapha
+Excessive sweating,Sthoulya,Endogenous,Nija Roga,Kapha
+Breathlessness with exertion,Sthoulya,Endogenous,Nija Roga,Kapha
+High cholesterol,Sthoulya,Endogenous,Nija Roga,Kapha
+Thin body frame,Karshya,Endogenous,Nija Roga,Vata
+Weakness,Karshya,Endogenous,Nija Roga,Vata
+Loss of muscle mass,Karshya,Endogenous,Nija Roga,Vata
+Dull skin,Karshya,Endogenous,Nija Roga,Vata
+Dry hair,Karshya,Endogenous,Nija Roga,Vata
+Joint stiffness,Amavata,Endogenous,Nija Roga,Vata and Kapha
+Joint pain,Amavata,Endogenous,Nija Roga,Vata
+Swelling of joints,Amavata,Endogenous,Nija Roga,Kapha
+Morning stiffness,Amavata,Endogenous,Nija Roga,Kapha
+Restricted joint movement,Amavata,Endogenous,Nija Roga,Vata
+Low back pain,Katigraha,Endogenous,Nija Roga,Vata
+Sciatica pain,Gridhrasi,Endogenous,Nija Roga,Vata
+Radiating leg pain,Gridhrasi,Endogenous,Nija Roga,Vata
+Numbness in legs,Gridhrasi,Endogenous,Nija Roga,Vata
+Headache,Shiroroga,Endogenous,Nija Roga,Vata and Pitta
+Migraine,Ardhavabhedaka,Endogenous,Nija Roga,Vata and Pitta
+One-sided headache,Ardhavabhedaka,Endogenous,Nija Roga,Vata
+Nausea with headache,Ardhavabhedaka,Endogenous,Nija Roga,Pitta
+Eye strain,Shiro-Roga,Endogenous,Nija Roga,Vata
+Anemia,Pandu,Endogenous,Nija Roga,Pitta
+Pale skin,Pandu,Endogenous,Nija Roga,Pitta
+Shortness of breath,Pandu,Endogenous,Nija Roga,Vata and Pitta
+Dizziness,Pandu,Endogenous,Nija Roga,Vata
+Weak nails,Pandu,Endogenous,Nija Roga,Pitta
+Bleeding gums,Raktapitta,Endogenous,Nija Roga,Pitta
+Nosebleeds,Raktapitta,Endogenous,Nija Roga,Pitta
+Blood in stool,Raktapitta,Endogenous,Nija Roga,Pitta
+Excessive menstruation,Raktapitta,Endogenous,Nija Roga,Pitta
+Skin rashes,Raktapitta,Endogenous,Nija Roga,Pitta
+Skin discoloration,Kushtha,Endogenous,Nija Roga,Pitta and Kapha
+Scaly skin patches,Kushtha,Endogenous,Nija Roga,Kapha
+Chronic itching,Kushtha,Endogenous,Nija Roga,Pitta
+Leucoderma patches,Shwitra,Endogenous,Nija Roga,Pitta and Kapha
+Eczema,Vicharchika,Endogenous,Nija Roga,Pitta and Kapha
+Pustules,Kushtha,Endogenous,Nija Roga,Pitta
+Hair loss,Indralupta,Endogenous,Nija Roga,Vata and Pitta
+Bald patches,Indralupta,Endogenous,Nija Roga,Vata
+Premature greying,Palitya,Endogenous,Nija Roga,Pitta
+Dry skin,Rukshata,Endogenous,Nija Roga,Vata
+Dry mouth,Trishna,Endogenous,Nija Roga,Vata
+Cracked lips,Trishna,Endogenous,Nija Roga,Vata
+Burning sensation,Daha,Endogenous,Nija Roga,Pitta
+Excessive hunger,Kshudhadhikya,Endogenous,Nija Roga,Pitta
+Loss of hunger,Kshudha Mandya,Endogenous,Nija Roga,Kapha
+Sleepiness,Nidra Adhikya,Endogenous,Nija Roga,Kapha
+Insomnia,Nidranasha,Endogenous,Nija Roga,Vata
+Anxiety,Chittodvega,Endogenous,Nija Roga,Vata
+Depression,Vishada,Endogenous,Nija Roga,Vata and Kapha
+Delusion,Unmada,Endogenous,Nija Roga,Vata and Pitta
+Epileptic fits,Apasmara,Endogenous,Nija Roga,Vata
+Memory loss,Smritibhramsha,Endogenous,Nija Roga,Vata
+Confusion,Unmada,Endogenous,Nija Roga,Vata
+Chronic cough,Kasa,Endogenous,Nija Roga,Vata and Kapha
+Dry cough,Kasa,Endogenous,Nija Roga,Vata
+Productive cough,Kasa,Endogenous,Nija Roga,Kapha
+Asthma attack,Shvasa,Endogenous,Nija Roga,Vata and Kapha
+Breathlessness,Shvasa,Endogenous,Nija Roga,Vata
+Wheezing,Shvasa,Endogenous,Nija Roga,Vata
+Chest tightness,Shvasa,Endogenous,Nija Roga,Vata
+Cold sensation,Sheetajvara,Endogenous,Nija Roga,Vata
+Hot flushes,Pittajvara,Endogenous,Nija Roga,Pitta
+Heaviness in body,Kaphajvara,Endogenous,Nija Roga,Kapha
+Body ache,Jvara,Endogenous,Nija Roga,Vata
+Shivering,Jvara,Endogenous,Nija Roga,Vata
+Night sweats,Jvara,Endogenous,Nija Roga,Pitta
+Palpitations,Hridayaroga,Endogenous,Nija Roga,Vata
+Chest pain,Hridayaroga,Endogenous,Nija Roga,Vata
+Irregular heartbeat,Hridayaroga,Endogenous,Nija Roga,Vata
+Hypertension,Raktagata Vata,Endogenous,Nija Roga,Vata
+Low blood pressure,Raktakshaya,Endogenous,Nija Roga,Vata
+Edema,Shotha,Endogenous,Nija Roga,Kapha
+Swollen feet,Shotha,Endogenous,Nija Roga,Kapha
+Ascites,Jalodara,Endogenous,Nija Roga,Kapha
+Abdominal distension,Jalodara,Endogenous,Nija Roga,Vata and Kapha
+Jaundice,Kamala,Endogenous,Nija Roga,Pitta
+Yellow skin,Kamala,Endogenous,Nija Roga,Pitta
+Dark urine,Kamala,Endogenous,Nija Roga,Pitta
+Itchy skin with jaundice,Kamala,Endogenous,Nija Roga,Pitta
+Loss of appetite with jaundice,Kamala,Endogenous,Nija Roga,Pitta
+Urinary burning,Mutrakrichra,Endogenous,Nija Roga,Pitta
+Painful urination,Mutrakrichra,Endogenous,Nija Roga,Pitta
+Scanty urine,Mutrakrichra,Endogenous,Nija Roga,Vata
+Urinary retention,Mutraghata,Endogenous,Nija Roga,Vata
+Kidney stone,Mutrashmari,Endogenous,Nija Roga,Vata and Kapha
+Colicky abdominal pain,Mutrashmari,Endogenous,Nija Roga,Vata
+Painful ejaculation,Shukravaha Roga,Endogenous,Nija Roga,Vata
+Infertility,Vandhyatva,Endogenous,Nija Roga,Vata and Kapha
+Loss of libido,Shukra Kshaya,Endogenous,Nija Roga,Vata
+Premature ejaculation,Shukra Kshaya,Endogenous,Nija Roga,Vata
+Impotence,Klaibya,Endogenous,Nija Roga,Vata and Kapha
+Menstrual pain,Kashtartava,Endogenous,Nija Roga,Vata
+Irregular periods,Artava Vyapad,Endogenous,Nija Roga,Vata and Pitta
+Heavy bleeding,Artava Vyapad,Endogenous,Nija Roga,Pitta
+Scanty periods,Artava Kshaya,Endogenous,Nija Roga,Vata
+Infertility (female),Vandhyatva,Endogenous,Nija Roga,Vata and Kapha
+Breast pain,Stanya Dushti,Endogenous,Nija Roga,Vata and Pitta
+Galactorrhea,Stanya Dushti,Endogenous,Nija Roga,Kapha
+Decreased lactation,Stanya Kshaya,Endogenous,Nija Roga,Vata
+Back pain,Katigraha,Endogenous,Nija Roga,Vata
+Neck stiffness,Manyagraha,Endogenous,Nija Roga,Vata
+Frozen shoulder,Apabahuka,Endogenous,Nija Roga,Vata
+Tremors,Kampavata,Endogenous,Nija Roga,Vata
+Paralysis,Pakshaghata,Endogenous,Nija Roga,Vata
+Facial paralysis,Ardita,Endogenous,Nija Roga,Vata
+Slurred speech,Ardita,Endogenous,Nija Roga,Vata
+Drooping eyelid,Ardita,Endogenous,Nija Roga,Vata
+Memory decline,Smriti Nasha,Endogenous,Nija Roga,Vata
+Excessive sleep,Nidra Adhikya,Endogenous,Nija Roga,Kapha
+Sleep walking,Nidra Vyadhi,Endogenous,Nija Roga,Vata
+Dream disturbances,Nidra Vyadhi,Endogenous,Nija Roga,Vata and Pitta
+Constipation,Anaha,Endogenous,Nija Roga,Vata
+Hard stools,Anaha,Endogenous,Nija Roga,Vata
+Abdominal pain with constipation,Anaha,Endogenous,Nija Roga,Vata
+Gas retention,Adhmana,Endogenous,Nija Roga,Vata
+Belching,Udgar,Endogenous,Nija Roga,Kapha
+Flatulence,Adhmana,Endogenous,Nija Roga,Vata
+Cut wound,Vrana,Exogenous,Āgantuka Roga,Vata and Pitta
+Laceration,Vrana,Exogenous,Āgantuka Roga,Vata and Pitta
+Burn injury,Dagdha Vrana,Exogenous,Āgantuka Roga,Pitta
+Blister after burn,Dagdha Vrana,Exogenous,Āgantuka Roga,Pitta
+Swelling after injury,Shotha,Exogenous,Āgantuka Roga,Kapha
+Bleeding wound,Raktasrava,Exogenous,Āgantuka Roga,Pitta
+Bruise,Abhighata Vrana,Exogenous,Āgantuka Roga,Vata
+Fracture,Bhagna,Exogenous,Āgantuka Roga,Vata
+Dislocation,Asthi Bhagna,Exogenous,Āgantuka Roga,Vata
+Sprain,Snayu Abhighata,Exogenous,Āgantuka Roga,Vata
+Muscle tear,Mamsa Vrana,Exogenous,Āgantuka Roga,Vata
+Animal bite,Vyala Damsa,Exogenous,Āgantuka Roga,Vata and Pitta
+Dog bite,Shvavidamsa,Exogenous,Āgantuka Roga,Vata and Pitta
+Snake bite,Sarpa Damsa,Exogenous,Āgantuka Roga,Vata and Pitta
+Scorpion sting,Vrischika Damsa,Exogenous,Āgantuka Roga,Vata and Pitta
+Spider bite,Luta Damsa,Exogenous,Āgantuka Roga,Vata and Kapha
+Insect bite,Kitaka Damsa,Exogenous,Āgantuka Roga,Vata and Pitta
+Itching after bite,Kitaka Damsa,Exogenous,Āgantuka Roga,Kapha
+Redness after bite,Kitaka Damsa,Exogenous,Āgantuka Roga,Pitta
+Pus formation,Vrana Shopha,Exogenous,Āgantuka Roga,Kapha
+Infected wound,Dushta Vrana,Exogenous,Āgantuka Roga,Pitta and Kapha
+Foul-smelling wound,Dushta Vrana,Exogenous,Āgantuka Roga,Kapha
+Non-healing ulcer,Dushta Vrana,Exogenous,Āgantuka Roga,Vata
+Pain at wound site,Vrana Vedana,Exogenous,Āgantuka Roga,Vata
+Burning pain,Vrana Daha,Exogenous,Āgantuka Roga,Pitta
+Crushed injury,Abhighata,Exogenous,Āgantuka Roga,Vata
+Skin laceration,Charmabhighata,Exogenous,Āgantuka Roga,Vata
+Eye trauma,Netra Abhighata,Exogenous,Āgantuka Roga,Vata
+Nose injury,Nasa Abhighata,Exogenous,Āgantuka Roga,Vata
+Ear injury,Karna Abhighata,Exogenous,Āgantuka Roga,Vata
+Head injury,Shiroroga Abhighata,Exogenous,Āgantuka Roga,Vata
+Concussion,Shiroroga Abhighata,Exogenous,Āgantuka Roga,Vata
+Loss of consciousness,Murchha,Exogenous,Āgantuka Roga,Vata
+Seizure after trauma,Apasmara,Exogenous,Āgantuka Roga,Vata
+Shock after trauma,Murchha,Exogenous,Āgantuka Roga,Vata
+Heat stroke,Suryaatap Janya Jvara,Exogenous,Āgantuka Roga,Pitta
+Sunburn,Suryaatap Dagdha,Exogenous,Āgantuka Roga,Pitta
+Excessive thirst from heat,Trishna,Exogenous,Āgantuka Roga,Pitta
+Dizziness from sun,Suryaatap Janya Roga,Exogenous,Āgantuka Roga,Pitta
+Cold exposure injury,Sheetajanya Vyadhi,Exogenous,Āgantuka Roga,Vata
+Frostbite,Sheetadagdha,Exogenous,Āgantuka Roga,Vata
+Numbness from cold,Sheetajanya Vyadhi,Exogenous,Āgantuka Roga,Vata
+Rigidity from cold,Sheetajanya Vyadhi,Exogenous,Āgantuka Roga,Vata
+Poison ingestion,Visha,Exogenous,Āgantuka Roga,Pitta
+Vomiting from poison,Visha,Exogenous,Āgantuka Roga,Pitta
+Abdominal pain from poison,Visha,Exogenous,Āgantuka Roga,Pitta
+Excessive salivation,Visha,Exogenous,Āgantuka Roga,Kapha
+Convulsions from poison,Visha,Exogenous,Āgantuka Roga,Vata
+Skin discoloration from poison,Visha,Exogenous,Āgantuka Roga,Pitta
+Drowsiness from poison,Visha,Exogenous,Āgantuka Roga,Kapha
+Loss of speech after trauma,Vakgraha,Exogenous,Āgantuka Roga,Vata
+Paralysis after trauma,Pakshaghata,Exogenous,Āgantuka Roga,Vata
+Eye redness after injury,Netra Vrana,Exogenous,Āgantuka Roga,Pitta
+Blurred vision after trauma,Netra Abhighata,Exogenous,Āgantuka Roga,Vata
+Tooth fracture,Danta Bhagna,Exogenous,Āgantuka Roga,Vata
+Jaw dislocation,Hanu Bhagna,Exogenous,Āgantuka Roga,Vata
+Bleeding gums after injury,Danta Roga,Exogenous,Āgantuka Roga,Pitta
+Voice loss after trauma,Swara Bheda,Exogenous,Āgantuka Roga,Vata
+Throat injury,Kantha Abhighata,Exogenous,Āgantuka Roga,Vata
+Hoarseness after trauma,Swara Bheda,Exogenous,Āgantuka Roga,Vata
+Chest pain after injury,Urah Abhighata,Exogenous,Āgantuka Roga,Vata
+Cough with blood after trauma,Urah Abhighata,Exogenous,Āgantuka Roga,Vata and Pitta
+Difficulty breathing after trauma,Pranavaha Abhighata,Exogenous,Āgantuka Roga,Vata
+Abdominal swelling after trauma,Udara Abhighata,Exogenous,Āgantuka Roga,Vata and Kapha
+Blood in stool after trauma,Purishavaha Abhighata,Exogenous,Āgantuka Roga,Pitta
+Urine retention after trauma,Mutravaha Abhighata,Exogenous,Āgantuka Roga,Vata
+Blood in urine after trauma,Mutravaha Abhighata,Exogenous,Āgantuka Roga,Pitta
+Skin tear from injury,Charmabhighata,Exogenous,Āgantuka Roga,Vata
+Pus discharge from wound,Dushta Vrana,Exogenous,Āgantuka Roga,Kapha
+Gangrene,Dushta Vrana,Exogenous,Āgantuka Roga,Vata and Pitta
+Bone infection after trauma,Asthi Dushti,Exogenous,Āgantuka Roga,Vata and Pitta
+Chronic wound ulcer,Dushta Vrana,Exogenous,Āgantuka Roga,Vata and Kapha
+Painful swelling,Shotha,Exogenous,Āgantuka Roga,Vata and Kapha
+Ulcer with burning pain,Vrana Daha,Exogenous,Āgantuka Roga,Pitta
+Wound with itching,Vrana Kandu,Exogenous,Āgantuka Roga,Kapha
+Excessive bleeding after trauma,Raktasrava,Exogenous,Āgantuka Roga,Pitta
+Eye swelling after trauma,Netra Shopha,Exogenous,Āgantuka Roga,Kapha
+Skin rash after insect bite,Kitaka Damsa,Exogenous,Āgantuka Roga,Pitta
+Skin ulcer after bite,Vrana Damsa,Exogenous,Āgantuka Roga,Vata and Pitta
+Severe burning after bite,Vrana Daha,Exogenous,Āgantuka Roga,Pitta
+Paralysis from snake bite,Sarpa Damsa,Exogenous,Āgantuka Roga,Vata
+Respiratory difficulty from bite,Sarpa Damsa,Exogenous,Āgantuka Roga,Vata and Kapha
+Nausea from bite poison,Sarpa Damsa,Exogenous,Āgantuka Roga,Pitta
+Sweating from poison,Sarpa Damsa,Exogenous,Āgantuka Roga,Pitta
+Weakness from envenomation,Sarpa Damsa,Exogenous,Āgantuka Roga,Vata
+Type 1 diabetes,Prameha,Hereditary,Sahaja,Pitta and Kapha
+Childhood obesity,Sthoulya,Hereditary,Sahaja,Kapha
+Congenital blindness,Andhya,Hereditary,Sahaja,Vata and Pitta
+Congenital deafness,Badhirya,Hereditary,Sahaja,Vata
+Cleft lip,Oshtha Vikriti,Hereditary,Sahaja,Vata
+Cleft palate,Talu Vikriti,Hereditary,Sahaja,Vata
+Congenital heart disease,Hridaya Vikara,Hereditary,Sahaja,Vata and Kapha
+Sickle cell anemia,Rakta Vikriti,Hereditary,Sahaja,Pitta
+Thalassemia,Rakta Vikriti,Hereditary,Sahaja,Pitta
+Hemophilia,Rakta Dushti,Hereditary,Sahaja,Pitta
+Congenital cataract,Timira,Hereditary,Sahaja,Kapha
+Color blindness,Netra Vikriti,Hereditary,Sahaja,Pitta
+Night blindness,Timira,Hereditary,Sahaja,Vata
+Glaucoma tendency,Netra Roga,Hereditary,Sahaja,Vata and Kapha
+Asthma tendency,Shvasa,Hereditary,Sahaja,Vata and Kapha
+Allergic rhinitis,Pratishyaya,Hereditary,Sahaja,Kapha
+Congenital baldness,Indralupta,Hereditary,Sahaja,Vata and Pitta
+Early greying hair,Palitya,Hereditary,Sahaja,Pitta
+Vitiligo,Shwitra,Hereditary,Sahaja,Pitta and Kapha
+Psoriasis,Kushtha,Hereditary,Sahaja,Pitta and Kapha
+Ichthyosis,Kushtha,Hereditary,Sahaja,Vata
+Atopic dermatitis,Kushtha,Hereditary,Sahaja,Kapha
+Congenital skeletal deformity,Asthi Vikriti,Hereditary,Sahaja,Vata
+Scoliosis,Asthi Vikriti,Hereditary,Sahaja,Vata
+Clubfoot,Pada Vikriti,Hereditary,Sahaja,Vata
+Polydactyly,Hasta Pada Vikriti,Hereditary,Sahaja,Vata
+Syndactyly,Hasta Pada Vikriti,Hereditary,Sahaja,Vata
+Congenital hip dislocation,Kati Vikriti,Hereditary,Sahaja,Vata
+Dwarfism,Vamana,Hereditary,Sahaja,Vata
+Gigantism,Ativridhi,Hereditary,Sahaja,Kapha
+Marfan syndrome,Snayu Vikriti,Hereditary,Sahaja,Vata
+Muscular dystrophy,Mamsa Kshaya,Hereditary,Sahaja,Vata
+Cystic fibrosis,Kapha Janya Roga,Hereditary,Sahaja,Kapha
+Congenital hypothyroidism,Galaganda,Hereditary,Sahaja,Kapha
+Goiter tendency,Galaganda,Hereditary,Sahaja,Kapha
+Congenital adrenal hyperplasia,Meda Dushti,Hereditary,Sahaja,Pitta
+Obstructive sleep apnea,Nidra Vyadhi,Hereditary,Sahaja,Kapha
+Epilepsy tendency,Apasmara,Hereditary,Sahaja,Vata
+Migraine tendency,Ardhavabhedaka,Hereditary,Sahaja,Vata and Pitta
+Schizophrenia tendency,Unmada,Hereditary,Sahaja,Vata and Pitta
+Bipolar disorder tendency,Unmada,Hereditary,Sahaja,Pitta
+Depression tendency,Vishada,Hereditary,Sahaja,Vata and Kapha
+Anxiety tendency,Chittodvega,Hereditary,Sahaja,Vata
+Autism spectrum disorder,Manas Vikriti,Hereditary,Sahaja,Vata
+Attention deficit tendency,Manas Vikriti,Hereditary,Sahaja,Vata
+Learning disability,Medha Hani,Hereditary,Sahaja,Vata
+Speech delay,Vak Vikriti,Hereditary,Sahaja,Vata
+Stammering,Vak Vikriti,Hereditary,Sahaja,Vata
+Congenital mutism,Mookatwa,Hereditary,Sahaja,Vata
+Infertility tendency,Vandhyatva,Hereditary,Sahaja,Vata and Kapha
+Polycystic ovarian syndrome,Artava Dushti,Hereditary,Sahaja,Kapha
+Endometriosis tendency,Artava Vyapad,Hereditary,Sahaja,Pitta
+Early menopause,Artava Kshaya,Hereditary,Sahaja,Vata
+Male pattern baldness,Indralupta,Hereditary,Sahaja,Vata and Pitta
+Early puberty,Atipravritti,Hereditary,Sahaja,Pitta
+Delayed puberty,Alpapravritti,Hereditary,Sahaja,Vata
+Congenital obesity,Sthoulya,Hereditary,Sahaja,Kapha
+Hyperlipidemia tendency,Meda Vriddhi,Hereditary,Sahaja,Kapha
+Hypertension tendency,Raktagata Vata,Hereditary,Sahaja,Vata
+Diabetes mellitus,Prameha,Hereditary,Sahaja,Kapha
+Coronary artery disease,Hridaya Roga,Hereditary,Sahaja,Vata
+Stroke tendency,Pakshaghata,Hereditary,Sahaja,Vata
+Epistaxis tendency,Raktapitta,Hereditary,Sahaja,Pitta
+Gout,Vatarakta,Hereditary,Sahaja,Vata and Pitta
+Rheumatoid arthritis,Amavata,Hereditary,Sahaja,Vata and Kapha
+Osteoarthritis,Sandhigata Vata,Hereditary,Sahaja,Vata
+Ankylosing spondylitis,Asthi Sandhi Roga,Hereditary,Sahaja,Vata
+Chronic kidney disease,Mutravaha Vikriti,Hereditary,Sahaja,Kapha
+Polycystic kidney disease,Mutrashaya Vikriti,Hereditary,Sahaja,Kapha
+Congenital urinary tract anomaly,Mutravaha Srotas Dushti,Hereditary,Sahaja,Vata
+Congenital liver disorder,Yakrit Vikriti,Hereditary,Sahaja,Pitta
+Wilson’s disease,Yakrit Vikriti,Hereditary,Sahaja,Pitta
+Hemochromatosis,Yakrit Vikriti,Hereditary,Sahaja,Pitta
+Congenital lung disease,Pranavaha Vikriti,Hereditary,Sahaja,Vata and Kapha
+Bronchiectasis tendency,Pranavaha Srotas Dushti,Hereditary,Sahaja,Kapha
+Alpha-1 antitrypsin deficiency,Pranavaha Vikriti,Hereditary,Sahaja,Kapha
+Congenital anemia,Pandu Roga,Hereditary,Sahaja,Pitta
+Congenital skin mole,Tilakalaka,Hereditary,Sahaja,Pitta
+Birthmark,Tilakalaka,Hereditary,Sahaja,Kapha
+Hemangioma,Raktaja Vikriti,Hereditary,Sahaja,Pitta
+Albinism,Shwitra,Hereditary,Sahaja,Pitta and Kapha
+Congenital hyperpigmentation,Charmavikriti,Hereditary,Sahaja,Pitta
+Craniosynostosis,Shiro Vikriti,Hereditary,Sahaja,Vata
+Hydrocephalus,Jala Shiro,Hereditary,Sahaja,Vata and Kapha
+Microcephaly,Shiro Vikriti,Hereditary,Sahaja,Vata
+Macrocephaly,Shiro Vikriti,Hereditary,Sahaja,Kapha
+Down syndrome,Manas Vikriti,Hereditary,Sahaja,Vata and Kapha
+Fragile X syndrome,Manas Vikriti,Hereditary,Sahaja,Vata
+Turner syndrome,Artava Dushti,Hereditary,Sahaja,Vata
+Klinefelter syndrome,Shukra Dushti,Hereditary,Sahaja,Vata and Kapha
+Congenital hydrocele,Mutravaha Shotha,Hereditary,Sahaja,Kapha
+Undescended testes,Shukra Vikriti,Hereditary,Sahaja,Vata
+Congenital hernia,Antra Vriddhi,Hereditary,Sahaja,Vata
+Congenital scoliosis,Asthi Vikriti,Hereditary,Sahaja,Vata
+Spina bifida,Asthi Majja Vikriti,Hereditary,Sahaja,Vata
+Cranial nerve palsy,Indriya Vikriti,Hereditary,Sahaja,Vata
+Muscle weakness,Mamsa Kshaya,Hereditary,Sahaja,Vata
+General fatigue,Kshaya,Hereditary,Sahaja,Vata
+Congenital heart defect,Hridaya Vikriti,Congenital,Garbhaja,Vata and Kapha
+Hole in heart,Hridaya Vikriti,Congenital,Garbhaja,Vata
+Congenital muscular weakness,Mamsa Kshaya,Congenital,Garbhaja,Vata
+Congenital speech delay,Vak Vikriti,Congenital,Garbhaja,Vata
+Large mole,Tilakalaka,Congenital,Garbhaja,Pitta
+Congenital ichthyosis,Kushtha,Congenital,Garbhaja,Vata
+Congenital eczema,Vicharchika,Congenital,Garbhaja,Kapha
+Congenital psoriasis,Kushtha,Congenital,Garbhaja,Pitta and Kapha
+Congenital vitiligo,Shwitra,Congenital,Garbhaja,Pitta and Kapha
+Congenital goiter,Galaganda,Congenital,Garbhaja,Kapha
+Congenital adrenal disorder,Meda Dushti,Congenital,Garbhaja,Pitta
+Congenital scoliosis curvature,Asthi Vikriti,Congenital,Garbhaja,Vata
+Congenital limb deformity,Anga Vikriti,Congenital,Garbhaja,Vata
+Congenital short limb,Anga Kshaya,Congenital,Garbhaja,Vata
+Congenital hand deformity,Hasta Vikriti,Congenital,Garbhaja,Vata
+Congenital jaw deformity,Hanu Vikriti,Congenital,Garbhaja,Vata
+Congenital tooth abnormality,Danta Vikriti,Congenital,Garbhaja,Kapha
+Enamel defect,Danta Vikriti,Congenital,Garbhaja,Kapha
+Congenital skin rash,Charmavikriti,Congenital,Garbhaja,Pitta
+Congenital nail deformity,Nakha Vikriti,Congenital,Garbhaja,Vata
+Brittle nails,Nakha Vikriti,Congenital,Garbhaja,Vata
+Congenital kidney anomaly,Mutravaha Vikriti,Congenital,Garbhaja,Kapha
+Congenital urinary tract obstruction,Mutravaha Dushti,Congenital,Garbhaja,Vata
+Congenital lung disorder,Pranavaha Vikriti,Congenital,Garbhaja,Vata and Kapha
+Congenital skin dryness,Rukshata,Congenital,Garbhaja,Vata
+Congenital tremors,Kampavata,Congenital,Garbhaja,Vata
+Congenital paralysis,Pakshaghata,Congenital,Garbhaja,Vata
+Congenital seizure tendency,Apasmara,Congenital,Garbhaja,Vata
+Congenital autism tendency,Manas Vikriti,Congenital,Garbhaja,Vata
+Congenital intellectual disability,Medha Hani,Congenital,Garbhaja,Vata
+Congenital depression tendency,Vishada,Congenital,Garbhaja,Vata and Kapha
+Congenital anxiety tendency,Chittodvega,Congenital,Garbhaja,Vata
+Congenital schizophrenia tendency,Unmada,Congenital,Garbhaja,Vata and Pitta
+Congenital bipolar disorder,Unmada,Congenital,Garbhaja,Pitta
+Seasonal fever,Kālaja Jvara,Seasonal,Kālaja,Pitta
+Sweating with fever,Kālaja Jvara,Seasonal,Kālaja,Pitta
+Thirst during fever,Kālaja Jvara,Seasonal,Kālaja,Pitta
+Nasal congestion,Pratishyaya,Seasonal,Kālaja,Kapha
+Runny nose,Pratishyaya,Seasonal,Kālaja,Kapha
+Sneezing,Pratishyaya,Seasonal,Kālaja,Vata and Kapha
+Sore throat,Kantha Shotha,Seasonal,Kālaja,Kapha
+Hoarseness of voice,Swarabheda,Seasonal,Kālaja,Vata
+Difficulty swallowing,Kantha Roga,Seasonal,Kālaja,Vata
+Burning sensation in body,Pittaja Jvara,Seasonal,Kālaja,Pitta
+Bitter taste in mouth,Pittaja Jvara,Seasonal,Kālaja,Pitta
+Nausea during fever,Amlapitta,Seasonal,Kālaja,Pitta
+Vomiting during fever,Chhardi,Seasonal,Kālaja,Pitta
+Bloating after meals,Ajeerna,Seasonal,Kālaja,Kapha
+Swollen glands,Shotha,Seasonal,Kālaja,Kapha
+Cold extremities,Sheetajvara,Seasonal,Kālaja,Vata
+Shivering with fever,Sheetajvara,Seasonal,Kālaja,Vata
+Burning eyes,Netra Daha,Seasonal,Kālaja,Pitta
+Redness of eyes,Netra Roga,Seasonal,Kālaja,Pitta
+Itchy eyes,Netra Roga,Seasonal,Kālaja,Kapha
+Urticaria,Kushtha,Seasonal,Kālaja,Pitta and Kapha
+Allergic skin reaction,Charmaroga,Seasonal,Kālaja,Pitta
+Anxiety with fever,Chittodvega,Seasonal,Kālaja,Vata
+Irritability with fever,Manasika Roga,Seasonal,Kālaja,Pitta
+Depression during seasonal illness,Vishada,Seasonal,Kālaja,Vata and Kapha
+Loss of concentration,Manasika Roga,Seasonal,Kālaja,Vata
+Mild swelling of face,Shotha,Seasonal,Kālaja,Kapha
+Seasonal asthma attack,Shvāsa,Seasonal,Kālaja,Vata and Kapha
+Seasonal allergy,Pratishyaya,Seasonal,Kālaja,Kapha
+Seasonal skin itching,Kushtha,Seasonal,Kālaja,Pitta
+Seasonal body weakness,Kālaja Vyadhi,Seasonal,Kālaja,Vata
+Recurrent seasonal fever,Kālaja Jvara,Seasonal,Ageing,Pitta
+Chills during fever,Kālaja Jvara,Seasonal,Ageing,Vata and Pitta
+Body pain with fever,Kālaja Jvara,Seasonal,Ageing,Vata
+Fatigue after fever,Kālaja Jvara,Seasonal,Ageing,Vata
+Cold sensation in body,Sheetajvara,Seasonal,Ageing,Vata
+Burning sensation in chest,Pittaja Jvara,Seasonal,Ageing,Pitta
+Headache with fever,Shiroroga,Seasonal,Ageing,Vata and Pitta
+Dizziness during fever,Kālaja Jvara,Seasonal,Ageing,Vata
+Weakness in limbs,Kālaja Vyadhi,Seasonal,Ageing,Vata
+Sneezing episodes,Pratishyaya,Seasonal,Ageing,Vata and Kapha
+Wheezing sound,Shvāsa,Seasonal,Ageing,Vata and Kapha
+Vomiting with fever,Chhardi,Seasonal,Ageing,Pitta
+Swelling of glands,Shotha,Seasonal,Ageing,Kapha
+Skin rash,Pittaja Jvara,Seasonal,Ageing,Pitta
+Itchy skin,Kushtha,Seasonal,Ageing,Pitta and Kapha
+Red eyes,Netra Roga,Seasonal,Ageing,Pitta
+Excessive tearing,Netra Roga,Seasonal,Ageing,Kapha
+Anxiety during fever,Chittodvega,Seasonal,Ageing,Vata
+Depressed mood,Vishada,Seasonal,Ageing,Vata and Kapha
+Swelling in legs,Shotha,Seasonal,Ageing,Kapha
+Seasonal asthma attacks,Shvāsa,Seasonal,Ageing,Vata and Kapha
+Skin dryness,Rukshata,Seasonal,Ageing,Vata
+Weak digestion,Ajeerna,Seasonal,Ageing,Kapha
+Low energy levels,Kālaja Vyadhi,Seasonal,Ageing,Vata
+Wrinkled skin,Jarā Roga,Seasonal,Ageing,Vata
+Greying hair,Palitya,Seasonal,Ageing,Pitta
+Baldness,Khalitya,Seasonal,Ageing,Vata and Pitta
+Loose skin,Jarā Roga,Seasonal,Ageing,Vata
+Skin thinning,Jarā Roga,Seasonal,Ageing,Vata
+Decreased skin elasticity,Jarā Roga,Seasonal,Ageing,Vata
+Thickened nails,Nakha Vikriti,Seasonal,Ageing,Kapha
+Tooth loss,Danta Nashana,Seasonal,Ageing,Vata
+Tooth decay,Danta Vikriti,Seasonal,Ageing,Kapha
+Gum recession,Dantamula Vikriti,Seasonal,Ageing,Vata
+Weak eyesight,Timira,Seasonal,Ageing,Vata and Pitta
+Cataract,Linga Nasha,Seasonal,Ageing,Kapha
+Hearing loss,Badhirya,Seasonal,Ageing,Vata
+Tinnitus,Karna Nada,Seasonal,Ageing,Vata
+Slow thinking,Medha Hani,Seasonal,Ageing,Vata
+Sleep disturbance,Nidranasha,Seasonal,Ageing,Vata
+Arthritis,Amavata,Seasonal,Ageing,Vata and Kapha
+Reduced muscle mass,Mamsa Kshaya,Seasonal,Ageing,Vata
+Bone fragility,Asthi Kshaya,Seasonal,Ageing,Vata
+Osteoporosis,Asthi Kshaya,Seasonal,Ageing,Vata
+Weak heart,Hridaya Vyadhi,Seasonal,Ageing,Vata
+High blood pressure,Raktagata Vata,Seasonal,Ageing,Vata
+Diabetes tendency,Prameha,Seasonal,Ageing,Kapha
+Weak immunity,Oja Kshaya,Seasonal,Ageing,Vata and Kapha
+Voice weakness,Swara Bheda,Seasonal,Ageing,Vata
+Irritability,Manasika Roga,Seasonal,Ageing,Pitta
+Loss of enthusiasm,Manasika Roga,Seasonal,Ageing,Vata
+Childhood bedwetting,Mutrakricchra,Natural,Svabhavaja,Vata
+Milk indigestion in infants,Ajeerna,Natural,Svabhavaja,Kapha
+Frequent crying in infants,Bala Vyadhi,Natural,Svabhavaja,Vata
+Teething pain,Dantodbheda,Natural,Svabhavaja,Kapha
+Fever during teething,Dantodbheda Jvara,Natural,Svabhavaja,Pitta
+Loss of appetite in children,Agnimandya,Natural,Svabhavaja,Kapha
+Abdominal bloating in children,Adhmana,Natural,Svabhavaja,Vata
+Loose stools in children,Atisara,Natural,Svabhavaja,Pitta
+Frequent colds,Pratishyaya,Natural,Svabhavaja,Kapha
+Recurrent cough,Kasa,Natural,Svabhavaja,Vata and Kapha
+Seasonal skin rashes,Kushtha,Natural,Svabhavaja,Pitta
+Itchy skin patches,Vicharchika,Natural,Svabhavaja,Pitta and Kapha
+Weak digestion in youth,Ajeerna,Natural,Svabhavaja,Kapha
+Overeating tendency,Ati Bhojana,Natural,Svabhavaja,Kapha
+Vomiting after overeating,Chhardi,Natural,Svabhavaja,Pitta
+Adolescent acne,Mukhadushika,Natural,Svabhavaja,Pitta
+Oily skin,Kapha Vikriti,Natural,Svabhavaja,Kapha
+Growth spurts,Sharira Vriddhi,Natural,Svabhavaja,Kapha
+Voice change in puberty,Swarabheda,Natural,Svabhavaja,Vata
+Mood swings in adolescence,Manasika Roga,Natural,Svabhavaja,Pitta
+Menstrual onset (menarche),Artava Pravritti,Natural,Svabhavaja,Pitta
+Irregular cycles in early years,Artava Vyapad,Natural,Svabhavaja,Vata
+Mild menstrual cramps,Kashtartava,Natural,Svabhavaja,Vata
+Breast development pain,Stanya Vikara,Natural,Svabhavaja,Kapha
+Increased appetite in teens,Kshudha Vriddhi,Natural,Svabhavaja,Pitta
+Excess sleep in youth,Nidra Adhikya,Natural,Svabhavaja,Kapha
+Daytime drowsiness,Tandra,Natural,Svabhavaja,Kapha
+Premature ejaculation in young men,Shukra Dushti,Natural,Svabhavaja,Vata
+Low sperm count,Shukra Kshaya,Natural,Svabhavaja,Vata
+Mild infertility tendencies,Vandhyatva,Natural,Svabhavaja,Vata
+Hair fall after stress,Indralupta,Natural,Svabhavaja,Vata and Pitta
+Early greying of hair,Palitya,Natural,Svabhavaja,Pitta
+Fatigue from overexertion,Sharma Kshaya,Natural,Svabhavaja,Vata
+Muscle cramps after exercise,Mamsa Kshaya,Natural,Svabhavaja,Vata
+Loss of energy after sexual excess,Shukra Kshaya,Natural,Svabhavaja,Vata
+Mild back pain from posture,Katigraha,Natural,Svabhavaja,Vata
+Neck stiffness from strain,Manyagraha,Natural,Svabhavaja,Vata
+Mild joint pain with exertion,Sandhigata Vata,Natural,Svabhavaja,Vata
+Dry eyes from fatigue,Netra Shosha,Natural,Svabhavaja,Vata
+Headache after sun exposure,Pittaja Shiroroga,Natural,Svabhavaja,Pitta
+Dizziness from hunger,Trishna Janya Vyadhi,Natural,Svabhavaja,Vata
+Palpitations after exertion,Hridaya Roga,Natural,Svabhavaja,Vata
+Loss of strength in old age,Jarā Roga,Natural,Svabhavaja,Vata
+Wrinkled skin in ageing,Jarā Roga,Natural,Svabhavaja,Vata
+Reduced vision in ageing,Timira,Natural,Svabhavaja,Vata and Pitta
+Hearing decline in ageing,Badhirya,Natural,Svabhavaja,Vata
+Tooth loss in ageing,Danta Nashana,Natural,Svabhavaja,Vata
+Sleep disturbance in ageing,Nidranasha,Natural,Svabhavaja,Vata
+Forgetfulness in ageing,Smriti Bhramsha,Natural,Svabhavaja,Vata
+Tremors in ageing,Kampavata,Natural,Svabhavaja,Vata
+Joint stiffness in ageing,Sandhigata Vata,Natural,Svabhavaja,Vata
+Fatigue in ageing,Jarā Roga,Natural,Svabhavaja,Vata
+Excess body fat,Sthaulya,Over-nutrition,Santarpanajanya,Kapha
+Overweight,Sthaulya,Over-nutrition,Santarpanajanya,Kapha
+Bulky abdomen,Sthaulya,Over-nutrition,Santarpanajanya,Kapha
+Fatigue after eating,Ajeerna,Over-nutrition,Santarpanajanya,Kapha
+Slow digestion,Ajeerna,Over-nutrition,Santarpanajanya,Kapha
+Sweet taste in mouth,Madhura Asyata,Over-nutrition,Santarpanajanya,Kapha
+Laziness,Alasya,Over-nutrition,Santarpanajanya,Kapha
+Snoring,Shvāsa,Over-nutrition,Santarpanajanya,Kapha
+Chest heaviness,Urah Gaurava,Over-nutrition,Santarpanajanya,Kapha
+Low stamina,Bala Hani,Over-nutrition,Santarpanajanya,Kapha
+Swelling in joints,Shotha,Over-nutrition,Santarpanajanya,Kapha
+Difficulty walking,Gati Vikriti,Over-nutrition,Santarpanajanya,Kapha
+Reduced flexibility,Stambha,Over-nutrition,Santarpanajanya,Kapha
+Sweet urine,Prameha,Over-nutrition,Santarpanajanya,Kapha
+Hyperlipidemia,Meda Dushti,Over-nutrition,Santarpanajanya,Kapha
+Fatty liver,Yakrit Vriddhi,Over-nutrition,Santarpanajanya,Kapha
+Abdominal heaviness,Udar Gaurava,Over-nutrition,Santarpanajanya,Kapha
+Bloating,Adhmana,Over-nutrition,Santarpanajanya,Kapha
+Acidity,Amlapitta,Over-nutrition,Santarpanajanya,Pitta
+Heartburn,Amlapitta,Over-nutrition,Santarpanajanya,Pitta
+Skin darkening,Charmavikriti,Over-nutrition,Santarpanajanya,Pitta and Kapha
+Skin tags,Charmavikriti,Over-nutrition,Santarpanajanya,Kapha
+Excessive hair fall,Indralupta,Over-nutrition,Santarpanajanya,Kapha
+Oily scalp,Kapha Vikriti,Over-nutrition,Santarpanajanya,Kapha
+Pimples,Mukhadushika,Over-nutrition,Santarpanajanya,Pitta and Kapha
+Acne scars,Mukhadushika,Over-nutrition,Santarpanajanya,Pitta
+Breathlessness on exertion,Shvāsa,Over-nutrition,Santarpanajanya,Kapha
+Liver enlargement,Yakrit Vriddhi,Over-nutrition,Santarpanajanya,Kapha
+Spleen enlargement,Pliha Vriddhi,Over-nutrition,Santarpanajanya,Kapha
+Edema in legs,Shotha,Over-nutrition,Santarpanajanya,Kapha
+Swelling of face,Shotha,Over-nutrition,Santarpanajanya,Kapha
+Swelling of abdomen,Jalodara,Over-nutrition,Santarpanajanya,Kapha
+Water retention,Jalodara,Over-nutrition,Santarpanajanya,Kapha
+Sluggish metabolism,Agni Mandya,Over-nutrition,Santarpanajanya,Kapha
+Tiredness after little work,Alasya,Over-nutrition,Santarpanajanya,Kapha
+Poor concentration,Medha Hani,Over-nutrition,Santarpanajanya,Kapha
+Memory weakness,Smriti Hani,Over-nutrition,Santarpanajanya,Kapha
+Mood swings,Manovikriti,Over-nutrition,Santarpanajanya,Kapha
+Low libido,Shukra Dushti,Over-nutrition,Santarpanajanya,Kapha
+Erectile dysfunction,Shukra Dushti,Over-nutrition,Santarpanajanya,Kapha
+Irregular menstruation,Artava Vyapad,Over-nutrition,Santarpanajanya,Kapha
+Polycystic ovarian tendency,Artava Vyapad,Over-nutrition,Santarpanajanya,Kapha
+Varicose veins,Sira Dushti,Over-nutrition,Santarpanajanya,Kapha
+Susceptibility to infections,Oja Kshaya,Over-nutrition,Santarpanajanya,Kapha
+Excessive urination,Prameha,Over-nutrition,Santarpanajanya,Kapha
+Dryness of mouth,Mukha Shosha,Over-nutrition,Santarpanajanya,Kapha
+Foul smell from mouth,Mukha Durgandha,Over-nutrition,Santarpanajanya,Kapha
+Craving for sweets,Madhura Asyata,Over-nutrition,Santarpanajanya,Kapha
+Craving for oily foods,Kapha Vriddhi,Over-nutrition,Santarpanajanya,Kapha
+Excessive body heat,Pittaja Vikriti,Over-nutrition,Santarpanajanya,Pitta
+Burning soles and palms,Pittaja Vikriti,Over-nutrition,Santarpanajanya,Pitta
+Drowsiness after meals,Tandra,Over-nutrition,Santarpanajanya,Kapha
+Early fatigue,Bala Hani,Over-nutrition,Santarpanajanya,Kapha
+Severe weight loss,Karshya,Under-nutrition,Apatarpanajanya,Vata
+General emaciation,Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Loss of body fat,Meda Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Sunken cheeks,Karshya,Under-nutrition,Apatarpanajanya,Vata
+Prominent bones,Asthi Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Cracked skin,Rukshata,Under-nutrition,Apatarpanajanya,Vata
+Hair fall,Indralupta,Under-nutrition,Apatarpanajanya,Vata
+Brittle hair,Kesha Vikriti,Under-nutrition,Apatarpanajanya,Vata
+Pale nails,Nakha Vikriti,Under-nutrition,Apatarpanajanya,Pitta
+Incomplete evacuation,Anaha,Under-nutrition,Apatarpanajanya,Vata
+Abdominal pain,Shoola,Under-nutrition,Apatarpanajanya,Vata
+General weakness,Bala Hani,Under-nutrition,Apatarpanajanya,Vata
+Loss of strength,Bala Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Vertigo,Bhrama,Under-nutrition,Apatarpanajanya,Vata
+Cold hands and feet,Sheetata,Under-nutrition,Apatarpanajanya,Vata
+Body stiffness,Stambha,Under-nutrition,Apatarpanajanya,Vata
+Joint cracking,Sandhigata Vata,Under-nutrition,Apatarpanajanya,Vata
+Bone pain,Asthi Shoola,Under-nutrition,Apatarpanajanya,Vata
+Tooth weakness,Danta Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Frequent infections,Oja Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Delayed growth,Bala Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Stunted growth,Karshya,Under-nutrition,Apatarpanajanya,Vata
+Scanty menstruation,Artava Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Amenorrhea,Artava Nasha,Under-nutrition,Apatarpanajanya,Vata
+Mental weakness,Manasika Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Light sleep,Alpa Nidra,Under-nutrition,Apatarpanajanya,Vata
+Restless sleep,Nidranasha,Under-nutrition,Apatarpanajanya,Vata
+Nightmares,Swapna Dosha,Under-nutrition,Apatarpanajanya,Vata
+Dry tongue,Jivha Shosha,Under-nutrition,Apatarpanajanya,Vata
+Dry throat,Kantha Shosha,Under-nutrition,Apatarpanajanya,Vata
+Low body temperature,Sheetata,Under-nutrition,Apatarpanajanya,Vata
+Chronic tiredness,Kshaya,Under-nutrition,Apatarpanajanya,Vata
+Poor coordination,Gati Vikriti,Under-nutrition,Apatarpanajanya,Vata
+Unsteady gait,Gati Vikriti,Under-nutrition,Apatarpanajanya,Vata
+Trembling hands,Kampavata,Under-nutrition,Apatarpanajanya,Vata
+Dry stool,Anaha,Under-nutrition,Apatarpanajanya,Vata
+Weak pulse,Durbala Nadi,Under-nutrition,Apatarpanajanya,Vata
+Chills,Jvara,Somatic,Śārīrika,Vata
+Fainting,Murchha,Somatic,Śārīrika,Vata and Pitta
+Weight loss,Kshaya,Somatic,Śārīrika,Vata and Pitta
+Weight gain,Sthoulya,Somatic,Śārīrika,Kapha
+Yellow eyes,Kamala,Somatic,Śārīrika,Pitta
+Burning urination,Mutrakrichra,Somatic,Śārīrika,Pitta
+Scanty urination,Mutraghata,Somatic,Śārīrika,Vata
+Urine retention,Mutraghata,Somatic,Śārīrika,Vata
+Diabetes,Prameha,Somatic,Śārīrika,Pitta and Kapha
+Thirst,Trishna,Somatic,Śārīrika,Vata and Pitta
+Excess hunger,Kshudha,Somatic,Śārīrika,Vata
+Diarrhea,Atisara,Somatic,Śārīrika,Pitta
+Bloody stools,Raktatisara,Somatic,Śārīrika,Pitta
+Mucus in stool,Atisara,Somatic,Śārīrika,Kapha
+Hemorrhoids,Arsha,Somatic,Śārīrika,Vata and Pitta
+Anal pain,Arsha,Somatic,Śārīrika,Vata
+Rectal bleeding,Arsha,Somatic,Śārīrika,Pitta
+Gas,Adhmana,Somatic,Śārīrika,Vata
+Bad breath,Durgandha,Somatic,Śārīrika,Kapha
+Hiccups,Hikka,Somatic,Śārīrika,Vata
+Cough,Shvāsa,Somatic,Śārīrika,Kapha
+Wet cough,Kasa,Somatic,Śārīrika,Kapha
+Asthma,Shvāsa,Somatic,Śārīrika,Vata and Kapha
+Cold,Pratishyaya,Somatic,Śārīrika,Kapha
+Hoarseness,Swarabheda,Somatic,Śārīrika,Kapha
+Loss of voice,Swarabheda,Somatic,Śārīrika,Vata
+Ear pain,Karnashoola,Somatic,Śārīrika,Vata
+Eye redness,Netra Abhishyanda,Somatic,Śārīrika,Pitta
+Eye pain,Netra Shoola,Somatic,Śārīrika,Vata and Pitta
+Dry eyes,Shushkakshipaka,Somatic,Śārīrika,Vata
+Watery eyes,Abhishyanda,Somatic,Śārīrika,Kapha
+Conjunctivitis,Abhishyanda,Somatic,Śārīrika,Pitta
+Itching,Kandu,Somatic,Śārīrika,Kapha
+Dark patches,Shvitra,Somatic,Śārīrika,Kapha
+Hives,Sheetapitta,Somatic,Śārīrika,Vata and Pitta
+Boils,Pidaka,Somatic,Śārīrika,Pitta
+Acne,Yuvana Pidaka,Somatic,Śārīrika,Kapha
+Dandruff,Indralupta,Somatic,Śārīrika,Kapha
+Grey hair,Palitya,Somatic,Śārīrika,Vata and Pitta
+Swollen joints,Sandhigata Vata,Somatic,Śārīrika,Kapha
+Neck pain,Grivashoola,Somatic,Śārīrika,Vata
+Muscle cramps,Mamsagata Vata,Somatic,Śārīrika,Vata
+Numbness,Supti,Somatic,Śārīrika,Vata
+Tingling,Supti,Somatic,Śārīrika,Vata
+Seizures,Apasmara,Somatic,Śārīrika,Vata
+Convulsions,Apasmara,Somatic,Śārīrika,Vata
+Excess sleep,Nidra Atiyoga,Somatic,Śārīrika,Kapha
+Swelling,Shotha,Somatic,Śārīrika,Kapha
+Gallstones,Pittashmari,Somatic,Śārīrika,Pitta
+Kidney stones,Mutrashmari,Somatic,Śārīrika,Vata
+Urinary tract infection,Mutrakrichra,Somatic,Śārīrika,Pitta
+Scanty bleeding,Artava Kshaya,Somatic,Śārīrika,Vata
+White discharge,Shweta Pradara,Somatic,Śārīrika,Kapha
+Breast lumps,Stana Granthi,Somatic,Śārīrika,Kapha
+Infant colic,Shoola,Somatic,Śārīrika,Vata
+Poor immunity,Ojakshaya,Somatic,Śārīrika,Tridosha
+Chronic fatigue,Ojakshaya,Somatic,Śārīrika,Vata and Kapha
+Loss of taste,Rasa Agnimandya,Somatic,Śārīrika,Kapha
+Metallic taste,Rasa Vaishamya,Somatic,Śārīrika,Pitta
+Lack of sweating,Aswedanam,Somatic,Śārīrika,Vata
+Body odor,Dourgandhya,Somatic,Śārīrika,Kapha
+Goiter,Galganda,Somatic,Śārīrika,Kapha
+Thyroid swelling,Galganda,Somatic,Śārīrika,Kapha
+High fever,Jvara,Somatic,Śārīrika,Pitta
+Recurrent fever,Jvara,Somatic,Śārīrika,Vata and Pitta
+Intermittent fever,Jvara,Somatic,Śārīrika,Vata
+Asthma attacks,Shvāsa,Somatic,Śārīrika,Vata and Kapha
+Eye burning,Netra Daha,Somatic,Śārīrika,Pitta
+Burning skin sensation,Pittaja Kushta,Somatic,Śārīrika,Pitta
+Shoulder pain,Apabahuka,Somatic,Śārīrika,Vata
+Knee pain,Janu Shoola,Somatic,Śārīrika,Vata
+Hip pain,Kati Shoola,Somatic,Śārīrika,Vata
+Muscle twitching,Sphurana,Somatic,Śārīrika,Vata
+Gum disease,Dantamula Roga,Somatic,Śārīrika,Kapha
+Blood in urine,Raktameha,Somatic,Śārīrika,Pitta
+Kidney pain,Mutravaha Shoola,Somatic,Śārīrika,Vata
+Menstrual cramps,Kashtartava,Somatic,Śārīrika,Vata
+Heavy menstruation,Rakta Pradara,Somatic,Śārīrika,Pitta
+Tiredness after exertion,Kshaya,Somatic,Śārīrika,Vata
+Swelling of legs,Shotha,Somatic,Śārīrika,Kapha
+Generalized edema,Jalodara,Somatic,Śārīrika,Kapha
+Premature ageing,Jarā Roga,Somatic,Śārīrika,Vata
+Hallucinations,Unmada,Somatic,Śārīrika,Vata
+Sweating with weakness,Atisveda,Somatic,Śārīrika,Pitta
+Muscle wasting,Mamsa Kshaya,Somatic,Śārīrika,Vata
+Fear,Bhaya,Mental,Mānāsika,Vata
+Excessive worry,Chinta,Mental,Mānāsika,Vata
+Restlessness,Manovyatha,Mental,Mānāsika,Vata
+Anger,Krodha,Mental,Mānāsika,Pitta
+Aggression,Ugra Manas,Mental,Mānāsika,Pitta
+Impatience,Ashanti,Mental,Mānāsika,Pitta
+Jealousy,Irshya,Mental,Mānāsika,Pitta
+Sadness,Vishada,Mental,Mānāsika,Kapha
+Hopelessness,Vishada,Mental,Mānāsika,Kapha
+Excessive attachment,Raga,Mental,Mānāsika,Kapha
+Emotional dullness,Staimitya,Mental,Mānāsika,Kapha
+Apathy,Aversion,Mental,Mānāsika,Kapha
+Psychosis,Unmada,Mental,Mānāsika,Vata and Pitta
+Delusions,Unmada,Mental,Mānāsika,Vata
+Paranoia,Unmada,Mental,Mānāsika,Vata
+Obsessions,Manovikara,Mental,Mānāsika,Vata
+Compulsions,Manovikara,Mental,Mānāsika,Vata and Kapha
+Disturbed sleep,Swapna Vaishamya,Mental,Mānāsika,Vata
+Daydreaming,Manas Chanchalya,Mental,Mānāsika,Vata
+Forgetfulness,Smriti Bhramsha,Mental,Mānāsika,Vata
+Poor memory,Smriti Kshaya,Mental,Mānāsika,Vata
+Lack of concentration,Dhriti Bhramsha,Mental,Mānāsika,Vata
+Inattention,Avadhi Bhramsha,Mental,Mānāsika,Vata
+Difficulty in decision-making,Dhriti Kshaya,Mental,Mānāsika,Vata
+Indecisiveness,Dhriti Vaishamya,Mental,Mānāsika,Vata
+Lack of clarity,Moham,Mental,Mānāsika,Kapha
+Mental fatigue,Manas Kshaya,Mental,Mānāsika,Vata
+Low confidence,Dhairya Hani,Mental,Mānāsika,Kapha
+Inferiority feeling,Manas Vaikalya,Mental,Mānāsika,Kapha
+Excessive pride,Ahankara,Mental,Mānāsika,Pitta
+Arrogance,Mada,Mental,Mānāsika,Pitta
+Greed,Lobha,Mental,Mānāsika,Kapha
+Possessiveness,Raga,Mental,Mānāsika,Kapha
+Selfishness,Atma-Sneha,Mental,Mānāsika,Kapha
+Overthinking,Chinta Atiyoga,Mental,Mānāsika,Vata
+Mental instability,Manas Vaishamya,Mental,Mānāsika,Vata
+Disorientation,Sammoha,Mental,Mānāsika,Vata
+Delirium,Moha,Mental,Mānāsika,Pitta
+Fear of death,Mrityu Bhaya,Mental,Mānāsika,Vata
+Social withdrawal,Manas Vairagya,Mental,Mānāsika,Kapha
+Loneliness,Manas Shunyata,Mental,Mānāsika,Vata
+Lack of motivation,Utsaha Hani,Mental,Mānāsika,Kapha
+Excessive enthusiasm,Utsaha Atiyoga,Mental,Mānāsika,Pitta
+Addictive behavior,Abhyasa Dosha,Mental,Mānāsika,Vata and Kapha
+Procrastination,Karma Virati,Mental,Mānāsika,Kapha
+Excessive speech,Ati Bhasha,Mental,Mānāsika,Vata
+Reduced speech,Mouna Vaishamya,Mental,Mānāsika,Kapha
+Talking to self,Unmada,Mental,Mānāsika,Vata
+Crying spells,Rodanam,Mental,Mānāsika,Vata and Kapha
+Laughter spells,Hasa Vaishamya,Mental,Mānāsika,Vata and Pitta
+Lack of willpower,Dhriti Hani,Mental,Mānāsika,Vata
+Distractibility,Manas Chanchalatva,Mental,Mānāsika,Vata
+Poor judgment,Viveka Hani,Mental,Mānāsika,Vata
+Suspicion,Shanka,Mental,Mānāsika,Vata
+Lack of emotional control,Manovyadhi,Mental,Mānāsika,Vata and Pitta
+Low self-esteem,Atma Hani,Mental,Mānāsika,Kapha
+Guilt feeling,Apakarma Smriti,Mental,Mānāsika,Pitta
+Remorse,Shoka,Mental,Mānāsika,Kapha
+Excessive grief,Shoka Atiyoga,Mental,Mānāsika,Vata
+Shock,Mano-Vega,Mental,Mānāsika,Vata
+Mental confusion in stress,Manas Kshobha,Mental,Mānāsika,Vata and Pitta
+Hyperactivity,Chapala,Mental,Mānāsika,Vata
+Inertia,Staimitya,Mental,Mānāsika,Kapha
+Obsessive guilt,Manas Vikar,Mental,Mānāsika,Pitta
+Violent behavior,Unmada,Mental,Mānāsika,Pitta
+Fear of darkness,Tamas Bhaya,Mental,Mānāsika,Vata and Kapha
+Stress headache,Shirashoola,Psychosomatic,Manodaihika,Vata and Pitta
+Tension headache,Shirashoola,Psychosomatic,Manodaihika,Vata
+Migraine worsened by stress,Ardhavabhedaka,Psychosomatic,Manodaihika,Vata and Pitta
+Rapid heartbeat,Hridroga,Psychosomatic,Manodaihika,Vata and Pitta
+Irritable bowel syndrome,Grahani,Psychosomatic,Manodaihika,Vata and Pitta
+Abdominal cramping,Shoola,Psychosomatic,Manodaihika,Vata
+Sweaty palms,Swedadhikya,Psychosomatic,Manodaihika,Pitta
+Body aches,Angamarda,Psychosomatic,Manodaihika,Vata
+Muscle tension,Mamsa Ruk,Psychosomatic,Manodaihika,Vata
+Psoriasis flare,Kustha,Psychosomatic,Manodaihika,Vata and Kapha
+Eczema flare,Kustha,Psychosomatic,Manodaihika,Pitta and Kapha
+Appetite fluctuations,Kshudha Vaishamya,Psychosomatic,Manodaihika,Vata
+Ulcers,Parinama Shoola,Psychosomatic,Manodaihika,Pitta
+Stress ulcers,Amlapitta,Psychosomatic,Manodaihika,Pitta
+Sexual dysfunction,Klaibya,Psychosomatic,Manodaihika,Vata and Kapha
+Premenstrual tension,Striroga,Psychosomatic,Manodaihika,Pitta and Kapha
+Asthma triggered by stress,Shvāsa,Psychosomatic,Manodaihika,Vata and Kapha
+Hyperventilation,Shvāsa Atiyoga,Psychosomatic,Manodaihika,Vata
+Memory lapses,Smriti Bhramsha,Psychosomatic,Manodaihika,Vata
+Nervousness,Chittodvega,Psychosomatic,Manodaihika,Vata
+Anxiety attacks,Chittodvega,Psychosomatic,Manodaihika,Vata
+Panic episodes,Chittodvega Atiyoga,Psychosomatic,Manodaihika,Vata
+Obsessive thoughts,Manovikara,Psychosomatic,Manodaihika,Vata
+Compulsive behavior,Manovikara,Psychosomatic,Manodaihika,Vata and Kapha
+Fear of illness,Bhaya,Psychosomatic,Manodaihika,Vata
+Work burnout,Manas Kshaya,Psychosomatic,Manodaihika,Vata
+Weakened immunity,Ojakshaya,Psychosomatic,Manodaihika,Tridosha
+Uncontrolled diabetes,Prameha,Incurable,Asādhya,Pitta and Kapha
+Chronic kidney failure,Mutraghata,Incurable,Asādhya,Vata
+Liver cirrhosis,Yakrut Vikara,Incurable,Asādhya,Pitta
+End-stage liver failure,Yakrut Kshaya,Incurable,Asādhya,Pitta
+Severe ascites,Jalodara,Incurable,Asādhya,Kapha
+Persistent jaundice,Kamala,Incurable,Asādhya,Pitta
+Chronic hepatitis,Yakrut Roga,Incurable,Asādhya,Pitta
+Advanced tuberculosis,Rajayakshma,Incurable,Asādhya,Vata and Pitta
+Chronic cough with blood,Rajayakshma,Incurable,Asādhya,Vata and Pitta
+Severe breathlessness,Shvāsa,Incurable,Asādhya,Vata and Kapha
+Chronic asthma,Shvāsa,Incurable,Asādhya,Vata and Kapha
+End-stage COPD,Shvāsa,Incurable,Asādhya,Vata and Kapha
+Emphysema,Shvāsa,Incurable,Asādhya,Vata and Kapha
+Chronic heart failure,Hridroga,Incurable,Asādhya,Vata and Kapha
+Severe chest pain,Hridroga,Incurable,Asādhya,Vata and Pitta
+Severe hypertension,Raktagata Vata,Incurable,Asādhya,Vata and Pitta
+Severe hypotension,Raktakshaya,Incurable,Asādhya,Vata
+Stroke,Pakshaghata,Incurable,Asādhya,Vata
+Hemiplegia,Pakshaghata,Incurable,Asādhya,Vata
+Quadriplegia,Pakshaghata,Incurable,Asādhya,Vata
+Parkinsonism,Kampavata,Incurable,Asādhya,Vata
+Severe tremors,Kampavata,Incurable,Asādhya,Vata
+Epilepsy resistant,Apasmara,Incurable,Asādhya,Vata
+Severe seizures,Apasmara,Incurable,Asādhya,Vata
+Chronic psychosis,Unmada,Incurable,Asādhya,Vata and Pitta
+Severe schizophrenia,Unmada,Incurable,Asādhya,Vata
+Severe depression,Vishada,Incurable,Asādhya,Vata and Kapha
+Alzheimer’s disease,Smriti Bhramsha,Incurable,Asādhya,Vata
+Advanced dementia,Smriti Kshaya,Incurable,Asādhya,Vata
+Motor neuron disease,Mamsa Kshaya,Incurable,Asādhya,Vata
+Multiple sclerosis,Majjagata Roga,Incurable,Asādhya,Vata
+Severe paralysis,Majjagata Vata,Incurable,Asādhya,Vata
+Chronic joint deformity,Amavata,Incurable,Asādhya,Vata and Kapha
+Severe rheumatoid arthritis,Amavata,Incurable,Asādhya,Vata and Kapha
+Advanced osteoarthritis,Sandhigata Vata,Incurable,Asādhya,Vata
+Gout with deformity,Vatarakta,Incurable,Asādhya,Vata and Pitta
+Chronic lupus,Kustha,Incurable,Asādhya,Pitta and Kapha
+Severe psoriasis,Kustha,Incurable,Asādhya,Vata and Kapha
+Leprosy,Kustha,Incurable,Asādhya,Vata and Kapha
+Vitiligo resistant,Shvitra,Incurable,Asādhya,Pitta and Kapha
+Severe eczema,Kustha,Incurable,Asādhya,Pitta and Kapha
+Chronic fistula,Bhagandara,Incurable,Asādhya,Vata
+Anal fistula,Bhagandara,Incurable,Asādhya,Vata
+Rectal prolapse,Guda Roga,Incurable,Asādhya,Vata
+Chronic piles,Arsha,Incurable,Asādhya,Vata and Pitta
+Severe bleeding piles,Arsha,Incurable,Asādhya,Pitta
+End-stage cancer,Arbuda,Incurable,Asādhya,Tridosha
+Malignant tumor,Arbuda,Incurable,Asādhya,Tridosha
+Metastatic disease,Arbuda,Incurable,Asādhya,Tridosha
+Chronic ulcers,Dushta Vrana,Incurable,Asādhya,Pitta
+Non-healing wounds,Dushta Vrana,Incurable,Asādhya,Kapha
+Severe anemia,Pandu,Incurable,Asādhya,Pitta
+Aplastic anemia,Raktapitta,Incurable,Asādhya,Pitta
+Chronic bleeding disorder,Raktapitta,Incurable,Asādhya,Pitta
+End-stage HIV,Rajayakshma,Incurable,Asādhya,Vata and Pitta
+Severe cachexia,Kshaya,Incurable,Asādhya,Vata
+Progressive weight loss,Kshaya,Incurable,Asādhya,Vata
+Marasmus,Kshaya,Incurable,Asādhya,Vata
+Kwashiorkor,Kshaya,Incurable,Asādhya,Kapha
+End-stage heart disease,Hridroga,Incurable,Asādhya,Vata and Kapha
+Chronic alcoholism,Madyatyaya,Incurable,Asādhya,Pitta
+Severe cirrhosis from alcohol,Madyatyaya,Incurable,Asādhya,Pitta
+Chronic pancreatitis,Agnimandya,Incurable,Asādhya,Pitta
+Severe digestive failure,Agnimandya,Incurable,Asādhya,Vata
+Chronic infertility,Vandhyatva,Incurable,Asādhya,Vata and Kapha
+End-stage neurological disease,Majjagata Roga,Incurable,Asādhya,Vata
+Mild fever,Jvara,Curable,Sādhya,Pitta
+Seasonal cold,Pratishyaya,Curable,Sādhya,Kapha
+Mild cough,Kasa,Curable,Sādhya,Kapha
+Bronchitis (early),Shvāsa,Curable,Sādhya,Vata and Kapha
+Tinnitus (mild),Karnanada,Curable,Sādhya,Vata
+Toothache,Dantashoola,Curable,Sādhya,Vata and Pitta
+Mouth ulcers,Mukha Paka,Curable,Sādhya,Pitta
+Dysentery,Raktatisara,Curable,Sādhya,Pitta
+Worm infestation,Krimi Roga,Curable,Sādhya,Vata and Kapha
+Gas and belching,Udgara,Curable,Sādhya,Vata
+Headache (simple),Shirashoola,Curable,Sādhya,Vata
+Migraine (early),Ardhavabhedaka,Curable,Sādhya,Vata and Pitta
+Eczema (mild),Kustha,Curable,Sādhya,Pitta and Kapha
+Hair fall (temporary),Khalitya,Curable,Sādhya,Vata and Pitta
+Joint pain (mild),Sandhishoola,Curable,Sādhya,Vata
+Joint stiffness (reversible),Sandhigata Vata,Curable,Sādhya,Vata
+Back pain (non-chronic),Katishoola,Curable,Sādhya,Vata
+Neck pain (temporary),Grivashoola,Curable,Sādhya,Vata
+Fatigue (short-term),Daurbalya,Curable,Sādhya,Vata
+Insomnia (mild),Anidra,Curable,Sādhya,Vata
+Stress-induced headache,Shirashoola,Curable,Sādhya,Vata and Pitta
+Urinary burning (acute),Mutrakrichra,Curable,Sādhya,Pitta
+Urinary infection (mild),Mutrakrichra,Curable,Sādhya,Pitta
+Bedwetting,Mutranilas,Curable,Sādhya,Vata
+Menstrual cramps (mild),Dysmenorrhea,Curable,Sādhya,Vata
+Irregular menstruation (correctable),Rajonivritti,Curable,Sādhya,Vata
+Low-grade anemia,Pandu,Curable,Sādhya,Pitta
+Swelling (reversible),Shotha,Curable,Sādhya,Kapha
+Simple ulcers (healing),Vrana,Curable,Sādhya,Pitta
+Mild fistula (initial),Bhagandara,Curable,Sādhya,Vata
+Piles (early),Arsha,Curable,Sādhya,Vata and Pitta
+Rectal bleeding (minor),Arsha,Curable,Sādhya,Pitta
+Goiter (simple),Galganda,Curable,Sādhya,Kapha
+Thyroid swelling (mild),Galganda,Curable,Sādhya,Kapha
+Mild asthma,Shvāsa,Curable,Sādhya,Vata and Kapha
+Red patches,Shvitra,External,Bāhya,Pitta
+White patches,Shvitra,External,Bāhya,Kapha
+Hyperpigmentation,Charma Vikara,External,Bāhya,Pitta
+Vitiligo spots,Shvitra,External,Bāhya,Pitta and Kapha
+Blisters,Visphota,External,Bāhya,Pitta
+Burn marks,Dagdha Vrana,External,Bāhya,Pitta
+Wounds,Vrana,External,Bāhya,Tridosha
+Abscess,Vidradhi,External,Bāhya,Kapha
+Fistula,Bhagandara,External,Bāhya,Vata
+Fissure,Guda Vrana,External,Bāhya,Vata
+Cuts,Chinna Vrana,External,Bāhya,Vata
+Bruises,Abhighata,External,Bāhya,Vata
+Sprains,Sandhigata Vata,External,Bāhya,Vata
+Fractures,Bhagna,External,Bāhya,Vata
+Dislocations,Sandhivikruti,External,Bāhya,Vata
+Joint swelling,Sandhishotha,External,Bāhya,Kapha
+Nail infection,Nakha Roga,External,Bāhya,Kapha
+Ingrown nail,Nakha Vikara,External,Bāhya,Vata
+Scalp itching,Kandu,External,Bāhya,Kapha
+No sweating,Aswedanam,External,Bāhya,Vata
+Foul body odor,Dourgandhya,External,Bāhya,Kapha
+Excessive ear wax,Karna Vikara,External,Bāhya,Kapha
+Ear discharge,Karna Srava,External,Bāhya,Pitta
+Stye,Anjananamika,External,Bāhya,Pitta
+Corneal opacity,Timira,External,Bāhya,Vata and Pitta
+Nosebleed,Nasagata Raktapitta,External,Bāhya,Pitta
+Nasal polyps,Nasagata Granthi,External,Bāhya,Kapha
+Dental caries,Danta Vikara,External,Bāhya,Kapha
+Swollen lips,Oshta Shotha,External,Bāhya,Kapha
+Tongue coating,Jihwa Malinata,External,Bāhya,Kapha
+Tongue ulcers,Jihwa Paka,External,Bāhya,Pitta
+Cracked tongue,Jihwa Vikara,External,Bāhya,Vata
+Enlarged tonsils,Tundikeri,External,Bāhya,Kapha
+Throat pain,Kantashoola,External,Bāhya,Vata
+Voice loss,Swarabheda,External,Bāhya,Vata
+Neck swelling,Griva Shotha,External,Bāhya,Kapha
+Breast lump,Stana Granthi,External,Bāhya,Kapha
+Skin cracks,Charma Vikara,External,Bāhya,Vata
+Scabies,Kustha,External,Bāhya,Kapha
+Ringworm,Dadru,External,Bāhya,Pitta and Kapha
+Wart,Charmakeela,External,Bāhya,Kapha
+Corn,Padadari,External,Bāhya,Vata
+Athlete’s foot,Padadari,External,Bāhya,Kapha
+Foot cracks,Padadari,External,Bāhya,Vata
+Hand eczema,Kustha,External,Bāhya,Pitta and Kapha
+Callus,Padadari,External,Bāhya,Vata
+Low-grade fever,Jvara,Middle,Madhyama,Kapha
+Seasonal cough,Kasa,Middle,Madhyama,Kapha
+Occasional breathlessness,Shvāsa,Middle,Madhyama,Vata
+Throat irritation,Kantashoola,Middle,Madhyama,Kapha
+Tonsillitis,Tundikeri,Middle,Madhyama,Kapha
+Mild headache,Shirashoola,Middle,Madhyama,Vata
+Migraine (intermittent),Ardhavabhedaka,Middle,Madhyama,Vata and Pitta
+Gum swelling,Dantaharsha,Middle,Madhyama,Pitta
+Abdominal discomfort,Shoola,Middle,Madhyama,Vata
+Mild liver disorder,Kamala,Middle,Madhyama,Pitta
+Mild jaundice,Kamala,Middle,Madhyama,Pitta
+Back pain (reversible),Katishoola,Middle,Madhyama,Vata
+Swelling (temporary),Shotha,Middle,Madhyama,Kapha
+Eczema (recurrent),Kustha,Middle,Madhyama,Pitta and Kapha
+Psoriasis (moderate),Kustha,Middle,Madhyama,Vata and Kapha
+Hair fall (moderate),Khalitya,Middle,Madhyama,Vata and Pitta
+Grey hair (early),Palitya,Middle,Madhyama,Vata and Pitta
+Sweating disorder,Swedadhikya,Middle,Madhyama,Pitta
+Hearing difficulty,Karna Badhirya,Middle,Madhyama,Vata
+Urinary burning (mild),Mutrakrichra,Middle,Madhyama,Pitta
+Irregular periods (moderate),Rajonivritti,Middle,Madhyama,Vata
+Mild anemia,Pandu,Middle,Madhyama,Pitta
+Palpitations (reversible),Hridroga,Middle,Madhyama,Vata and Pitta
+Mild hypertension,Raktagata Vata,Middle,Madhyama,Vata and Pitta
+Simple ulcers,Vrana,Middle,Madhyama,Pitta
+Anal pain (mild),Arsha,Middle,Madhyama,Vata
+Early piles,Arsha,Middle,Madhyama,Vata and Pitta
+Goiter (moderate),Galganda,Middle,Madhyama,Kapha
+Allergic skin flare,Kustha,Middle,Madhyama,Pitta and Kapha
+Seasonal asthma,Shvāsa,Middle,Madhyama,Vata and Kapha
+Stress-related headache,Shirashoola,Middle,Madhyama,Vata and Pitta
+Insomnia (moderate),Anidra,Middle,Madhyama,Vata
+Mild depression,Vishada,Middle,Madhyama,Kapha
+Anxiety (manageable),Chittodvega,Middle,Madhyama,Vata
+Stomach cramps,Shoola,Internal,Abhyantara,Vata
+Diarrhea with undigested food,Grahani,Internal,Abhyantara,Vata
+Alternating diarrhea and constipation,Grahani,Internal,Abhyantara,Vata and Kapha
+Irritable bowel,Grahani,Internal,Abhyantara,Vata
+Anal itching,Arsha,Internal,Abhyantara,Kapha
+Anal discharge,Bhagandara,Internal,Abhyantara,Kapha
+Chronic ulcerative colitis,Grahani,Internal,Abhyantara,Pitta
+Peptic ulcer,Parinama Shoola,Internal,Abhyantara,Pitta
+Stress ulcer,Amlapitta,Internal,Abhyantara,Pitta
+Liver pain,Yakrut Shoola,Internal,Abhyantara,Pitta
+Abdominal swelling,Jalodara,Internal,Abhyantara,Kapha
+Urinary obstruction,Mutraghata,Internal,Abhyantara,Vata
+Urinary infection,Mutrakrichra,Internal,Abhyantara,Pitta
+Polydipsia,Prameha,Internal,Abhyantara,Kapha
+Cachexia,Kshaya,Internal,Abhyantara,Vata
+Paleness,Pandu,Internal,Abhyantara,Pitta
+Hypotension,Raktakshaya,Internal,Abhyantara,Vata
+Chronic bronchitis,Shvāsa,Internal,Abhyantara,Kapha
+Tuberculosis,Rajayakshma,Internal,Abhyantara,Vata and Pitta
+Cough with blood,Rajayakshma,Internal,Abhyantara,Pitta
+Epigastric burning,Amlapitta,Internal,Abhyantara,Pitta
+Aversion to food,Agnimandya,Internal,Abhyantara,Kapha
+Thirstless state,Trishna Hani,Internal,Abhyantara,Vata
+Biliary colic,Pittashmari,Internal,Abhyantara,Pitta
+Heavy periods,Asrigdara,Internal,Abhyantara,Pitta
+Ovarian cyst,Granthi,Internal,Abhyantara,Kapha
+Prolonged labor,Prasava Roga,Internal,Abhyantara,Vata
+Recurrent miscarriage,Garbha Srava,Internal,Abhyantara,Vata
+Chronic skin disorder,Kustha,Internal,Abhyantara,Pitta and Kapha
+Systemic lupus erythematosus,Kustha,Internal,Abhyantara,Pitta
+Lymph node swelling,Granthi,Internal,Abhyantara,Kapha
+Body swelling,Shotha,Internal,Abhyantara,Kapha
+Anasarca,Shotha,Internal,Abhyantara,Kapha
+Ascitic fluid retention,Jalodara,Internal,Abhyantara,Kapha
+Chronic infection,Rajayakshma,Internal,Abhyantara,Vata and Pitta
+Chronic inflammation,Shotha,Internal,Abhyantara,Kapha
+Severe weakness,Daurbalya,Internal,Abhyantara,Vata
+Loss of immunity,Ojakshaya,Internal,Abhyantara,Tridosha
+Immune deficiency,Ojakshaya,Internal,Abhyantara,Tridosha
+Chronic pain syndrome,Vata Vyadhi,Internal,Abhyantara,Vata
+Fibromyalgia,Vata Vyadhi,Internal,Abhyantara,Vata
+Bronchial asthma,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Dyspnea (shortness of breath),Shvāsa,Respiratory,Prāṇavāha,Vata
+Difficulty breathing,Shvāsa,Respiratory,Prāṇavāha,Vata
+Noisy breathing,Shvāsa,Respiratory,Prāṇavāha,Vata
+Mucus in chest,Kaphaja Kasa,Respiratory,Prāṇavāha,Kapha
+Phlegm expectoration,Kaphaja Kasa,Respiratory,Prāṇavāha,Kapha
+Thick sputum,Kaphaja Kasa,Respiratory,Prāṇavāha,Kapha
+Blood in sputum,Rajayakshma,Respiratory,Prāṇavāha,Pitta
+Greenish sputum,Kaphaja Kasa,Respiratory,Prāṇavāha,Kapha
+Yellow sputum,Pittaja Kasa,Respiratory,Prāṇavāha,Pitta
+Frothy sputum,Vataja Kasa,Respiratory,Prāṇavāha,Vata
+Morning cough,Kasa,Respiratory,Prāṇavāha,Kapha
+Night cough,Kasa,Respiratory,Prāṇavāha,Vata
+Paroxysmal cough,Kasa,Respiratory,Prāṇavāha,Vata and Kapha
+Whooping cough,Kasa,Respiratory,Prāṇavāha,Vata
+Acute bronchitis,Kasa,Respiratory,Prāṇavāha,Kapha
+Bronchospasm,Shvāsa,Respiratory,Prāṇavāha,Vata
+Inflammation of bronchi,Shvāsa,Respiratory,Prāṇavāha,Kapha
+Bronchial congestion,Kaphaja Kasa,Respiratory,Prāṇavāha,Kapha
+Lung congestion,Kaphaja Shvāsa,Respiratory,Prāṇavāha,Kapha
+Chest pain with cough,Kasa,Respiratory,Prāṇavāha,Vata
+Chest burning with cough,Pittaja Kasa,Respiratory,Prāṇavāha,Pitta
+Pleural pain,Parshva Shoola,Respiratory,Prāṇavāha,Vata
+Pleural effusion,Parshva Shotha,Respiratory,Prāṇavāha,Kapha
+Pleuritic chest pain,Parshva Roga,Respiratory,Prāṇavāha,Vata
+Laryngitis,Swarabheda,Respiratory,Prāṇavāha,Kapha
+Throat swelling,Kantashotha,Respiratory,Prāṇavāha,Kapha
+Stridor,Shvāsa,Respiratory,Prāṇavāha,Vata
+Blocked nose,Pratishyaya,Respiratory,Prāṇavāha,Kapha
+Sinus headache,Peenasa,Respiratory,Prāṇavāha,Kapha
+Chronic sinusitis,Peenasa,Respiratory,Prāṇavāha,Kapha
+Acute sinusitis,Peenasa,Respiratory,Prāṇavāha,Kapha
+Post-nasal drip,Pratishyaya,Respiratory,Prāṇavāha,Kapha
+Hay fever,Pratishyaya,Respiratory,Prāṇavāha,Kapha
+Epistaxis (nosebleed),Nasa Raktapitta,Respiratory,Prāṇavāha,Pitta
+Chronic nasal obstruction,Pratishyaya,Respiratory,Prāṇavāha,Kapha
+Difficulty smelling,Ghrana Nasha,Respiratory,Prāṇavāha,Vata
+Loss of smell,Ghrana Nasha,Respiratory,Prāṇavāha,Vata
+Reduced smell,Ghrana Hani,Respiratory,Prāṇavāha,Vata
+Sleep apnea,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Upper airway obstruction,Kantavyatha,Respiratory,Prāṇavāha,Vata
+Chronic pharyngitis,Kantashoola,Respiratory,Prāṇavāha,Kapha
+Acute pharyngitis,Kantashoola,Respiratory,Prāṇavāha,Kapha
+Night sweats in TB,Rajayakshma,Respiratory,Prāṇavāha,Pitta
+Weight loss in TB,Rajayakshma,Respiratory,Prāṇavāha,Vata
+Fever with cough,Rajayakshma,Respiratory,Prāṇavāha,Pitta
+Pneumonia,Shvāsa Jvara,Respiratory,Prāṇavāha,Pitta and Kapha
+Fever with chest pain,Shvāsa Jvara,Respiratory,Prāṇavāha,Pitta
+Rapid breathing,Shvāsa,Respiratory,Prāṇavāha,Vata
+Shallow breathing,Shvāsa,Respiratory,Prāṇavāha,Vata
+Irregular breathing,Shvāsa,Respiratory,Prāṇavāha,Vata
+Fast breathing,Shvāsa,Respiratory,Prāṇavāha,Vata
+Breath-holding episodes,Shvāsa,Respiratory,Prāṇavāha,Vata
+Air hunger,Shvāsa,Respiratory,Prāṇavāha,Vata
+Suffocation feeling,Shvāsa,Respiratory,Prāṇavāha,Vata
+Hypoventilation,Shvāsa Hani,Respiratory,Prāṇavāha,Vata
+Orthopnea,Shvāsa,Respiratory,Prāṇavāha,Kapha
+Paroxysmal nocturnal dyspnea,Shvāsa,Respiratory,Prāṇavāha,Kapha
+Chronic obstructive pulmonary disease,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Bronchiectasis,Kasa,Respiratory,Prāṇavāha,Kapha
+Cystic fibrosis-like state,Kaphaja Shvāsa,Respiratory,Prāṇavāha,Kapha
+Lung fibrosis,Vataja Shvāsa,Respiratory,Prāṇavāha,Vata
+Interstitial lung disease,Vataja Shvāsa,Respiratory,Prāṇavāha,Vata
+Pleurisy,Parshva Shoola,Respiratory,Prāṇavāha,Vata
+Persistent hiccups,Hikka,Respiratory,Prāṇavāha,Vata
+Choking sensation,Kantavyatha,Respiratory,Prāṇavāha,Vata
+Aspiration pneumonia,Shvāsa Jvara,Respiratory,Prāṇavāha,Kapha
+Voice fatigue,Swarabheda,Respiratory,Prāṇavāha,Vata
+Loss of vocal strength,Swarabheda,Respiratory,Prāṇavāha,Vata
+Painful respiration,Shvāsa Shoola,Respiratory,Prāṇavāha,Vata
+Cold-induced cough,Shita Kasa,Respiratory,Prāṇavāha,Kapha
+Dust-induced cough,Peenasa,Respiratory,Prāṇavāha,Kapha
+Allergy-induced asthma,Pratishyaya,Respiratory,Prāṇavāha,Kapha
+Pollution-induced asthma,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Occupational asthma,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Exertional dyspnea,Shvāsa,Respiratory,Prāṇavāha,Vata
+Exercise-induced asthma,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Emotional stress dyspnea,Shvāsa,Respiratory,Prāṇavāha,Vata
+Breathlessness at rest,Shvāsa,Respiratory,Prāṇavāha,Vata
+Asthmatic wheeze,Shvāsa,Respiratory,Prāṇavāha,Vata and Kapha
+Bronchial irritation,Kasa,Respiratory,Prāṇavāha,Kapha
+Respiratory fatigue,Shvāsa,Respiratory,Prāṇavāha,Vata
+Cyanosis,Shvāsa,Respiratory,Prāṇavāha,Vata and Pitta
+Bluish lips,Shvāsa,Respiratory,Prāṇavāha,Vata and Pitta
+Bluish nails,Shvāsa,Respiratory,Prāṇavāha,Vata and Pitta
+Hemoptysis,Rajayakshma,Respiratory,Prāṇavāha,Pitta
+Recurrent chest infections,Shvāsa Jvara,Respiratory,Prāṇavāha,Kapha
+Frequent pneumonia,Shvāsa Jvara,Respiratory,Prāṇavāha,Pitta and Kapha
+Suppurative lung abscess,Vidradhi,Respiratory,Prāṇavāha,Kapha
+Pulmonary edema,Shvāsa,Respiratory,Prāṇavāha,Kapha
+Irregular appetite,Agnimandya,Digestive,Annavāha,Vata and Kapha
+Bitter vomiting,Chhardi,Digestive,Annavāha,Pitta
+Sour vomiting,Chhardi,Digestive,Annavāha,Pitta
+Projectile vomiting,Chhardi,Digestive,Annavāha,Vata
+Foul-smelling belching,Udgara,Digestive,Annavāha,Kapha
+Excess gas,Adhmana,Digestive,Annavāha,Vata
+Burning in stomach,Amlapitta,Digestive,Annavāha,Pitta
+Incomplete digestion,Ajeerna,Digestive,Annavāha,Kapha
+Bitter taste,Rasa Vaishamya,Digestive,Annavāha,Pitta
+Salty taste,Rasa Vaishamya,Digestive,Annavāha,Pitta
+Pale tongue,Jihwa Vikara,Digestive,Annavāha,Pitta
+Coated tongue,Jihwa Malinata,Digestive,Annavāha,Kapha
+Oral dryness,Mukha Shosha,Digestive,Annavāha,Vata
+Excess salivation,Mukha Srava,Digestive,Annavāha,Kapha
+Dry lips,Oshta Shosha,Digestive,Annavāha,Vata
+Abdominal rumbling,Atopa,Digestive,Annavāha,Vata
+Gastric fullness,Adhmana,Digestive,Annavāha,Kapha
+Abdominal tenderness,Shoola,Digestive,Annavāha,Pitta
+Abdominal rigidity,Shoola,Digestive,Annavāha,Vata
+Bloody diarrhea,Raktatisara,Digestive,Annavāha,Pitta
+Greasy stools,Grahani,Digestive,Annavāha,Kapha
+Scanty stools,Malabaddhata,Digestive,Annavāha,Vata
+Foul-smelling stools,Atisara,Digestive,Annavāha,Pitta
+Pale stools,Grahani,Digestive,Annavāha,Kapha
+Floating stools,Atisara,Digestive,Annavāha,Kapha
+Frequent stools,Atisara,Digestive,Annavāha,Pitta
+Painful defecation,Arsha,Digestive,Annavāha,Vata
+Urgency to defecate,Atisara,Digestive,Annavāha,Pitta
+No urge to defecate,Malabaddhata,Digestive,Annavāha,Vata
+Loss of control (incontinence),Atisara,Digestive,Annavāha,Vata
+Crohn’s-like features,Grahani,Digestive,Annavāha,Vata
+Gastric ulcer,Parinama Shoola,Digestive,Annavāha,Pitta
+Duodenal ulcer,Parinama Shoola,Digestive,Annavāha,Pitta
+Ulcer pain,Parinama Shoola,Digestive,Annavāha,Pitta
+Burning stomach pain,Amlapitta,Digestive,Annavāha,Pitta
+Food intolerance,Grahani,Digestive,Annavāha,Kapha
+Lactose intolerance,Grahani,Digestive,Annavāha,Kapha
+Gluten intolerance,Grahani,Digestive,Annavāha,Kapha
+Abdominal gurgling,Atopa,Digestive,Annavāha,Vata
+Poor absorption,Grahani,Digestive,Annavāha,Vata
+Malnutrition,Kshaya,Digestive,Annavāha,Vata
+Emaciation,Kshaya,Digestive,Annavāha,Vata
+Pale skin from anemia,Pandu,Digestive,Annavāha,Pitta
+Swelling from malabsorption,Shotha,Digestive,Annavāha,Kapha
+Pancreatic pain,Agnimandya,Digestive,Annavāha,Pitta
+Pancreatitis,Agnimandya,Digestive,Annavāha,Pitta
+Flatulence after meals,Adhmana,Digestive,Annavāha,Vata
+Colicky pain,Shoola,Digestive,Annavāha,Vata
+Loss of thirst,Trishna Hani,Digestive,Annavāha,Vata
+Thirstless state in Kapha,Trishna Hani,Digestive,Annavāha,Kapha
+Abdominal gurgling at night,Atopa,Digestive,Annavāha,Vata
+Abdominal pulsation,Shoola,Digestive,Annavāha,Vata
+Burning anus,Arsha,Digestive,Annavāha,Pitta
+Foul-smelling flatus,Adhmana,Digestive,Annavāha,Kapha
+Excessive flatus,Adhmana,Digestive,Annavāha,Vata
+Colitis-like pain,Grahani,Digestive,Annavāha,Pitta
+Recurrent diarrhea,Atisara,Digestive,Annavāha,Pitta
+Loose stools after meals,Grahani,Digestive,Annavāha,Pitta
+Constipation with pain,Malabaddhata,Digestive,Annavāha,Vata
+Irregular stools,Grahani,Digestive,Annavāha,Vata
+Pain in umbilical region,Nabhi Shoola,Digestive,Annavāha,Vata
+Heaviness after meals,Agnimandya,Digestive,Annavāha,Kapha
+Slow metabolism,Agnimandya,Digestive,Annavāha,Kapha
+Abdominal burning after food,Amlapitta,Digestive,Annavāha,Pitta
+Vomiting after meals,Chhardi,Digestive,Annavāha,Pitta
+Excess salivation after food,Mukha Srava,Digestive,Annavāha,Kapha
+Dry mouth after meals,Mukha Shosha,Digestive,Annavāha,Vata
+Food regurgitation,Udgara,Digestive,Annavāha,Kapha
+Indigestion of heavy food,Ajeerna,Digestive,Annavāha,Kapha
+Indigestion of sour food,Ajeerna,Digestive,Annavāha,Pitta
+Indigestion of dry food,Ajeerna,Digestive,Annavāha,Vata
+Abdominal pain relieved by stool,Shoola,Digestive,Annavāha,Vata
+Abdominal pain relieved by flatus,Shoola,Digestive,Annavāha,Vata
+Epigastric tenderness,Parinama Shoola,Digestive,Annavāha,Pitta
+Ulcer-like gnawing pain,Parinama Shoola,Digestive,Annavāha,Pitta
+Fatigue after meals,Ajeerna,Digestive,Annavāha,Kapha
+Palpitations after meals,Hridroga,Digestive,Annavāha,Vata and Pitta
+Hiccups after meals,Hikka,Digestive,Annavāha,Vata
+Borborygmi,Atopa,Digestive,Annavāha,Vata
+Stool with parasites,Krimi Roga,Digestive,Annavāha,Vata and Kapha
+Itching anus,Krimi Roga,Digestive,Annavāha,Vata and Kapha
+Pale face from indigestion,Ajeerna,Digestive,Annavāha,Kapha
+Skin dullness from poor digestion,Agnimandya,Digestive,Annavāha,Kapha
+Loss of strength from malabsorption,Grahani,Digestive,Annavāha,Vata
+Slow heartbeat,Hridroga,Cardio-blood,Rasa/Rakta-vāha,Vata and Kapha
+Heart heaviness,Hridroga,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Shortness of breath with exertion,Hridroga,Cardio-blood,Rasa/Rakta-vāha,Vata and Kapha
+Cyanosis (bluish lips),Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Swelling of feet,Shotha,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Leg edema,Shotha,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Whole body swelling,Shotha,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Headache from hypertension,Raktagata Vata,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Flushed face from hypertension,Raktagata Vata,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Easy bruising,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Prolonged bleeding,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Heavy menstrual bleeding,Asrigdara,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Fatigue from anemia,Pandu,Cardio-blood,Rasa/Rakta-vāha,Vata
+Shortness of breath in anemia,Pandu,Cardio-blood,Rasa/Rakta-vāha,Vata
+Paleness of lips,Pandu,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Paleness of nails,Pandu,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Dark circles under eyes,Pandu,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Loss of appetite in anemia,Pandu,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Cold intolerance,Vata Vyadhi,Cardio-blood,Rasa/Rakta-vāha,Vata
+Leg heaviness,Sira Vikara,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Leg pain on walking,Sira Vikara,Cardio-blood,Rasa/Rakta-vāha,Vata
+Cramping in calves,Vata Vyadhi,Cardio-blood,Rasa/Rakta-vāha,Vata
+Throbbing veins,Sira Vikara,Cardio-blood,Rasa/Rakta-vāha,Vata
+Deep vein thrombosis,Sira Granthi,Cardio-blood,Rasa/Rakta-vāha,Pitta and Kapha
+Redness in veins,Sira Granthi,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Leg ulcer from poor circulation,Dushta Vrana,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Skin mottling,Vata Vyadhi,Cardio-blood,Rasa/Rakta-vāha,Vata
+Cold clammy skin,Shosha,Cardio-blood,Rasa/Rakta-vāha,Vata
+Palpable pulse variations,Nadi Vikara,Cardio-blood,Rasa/Rakta-vāha,Vata
+Bounding pulse,Nadi Vikara,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Irregular pulse,Nadi Vikara,Cardio-blood,Rasa/Rakta-vāha,Vata
+Pulse deficit,Nadi Vikara,Cardio-blood,Rasa/Rakta-vāha,Vata
+Fever with palpitations,Jvara,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Chest burning sensation,Hridroga,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Angina-like pain,Hridroga,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Sudden chest pressure,Hridroga,Cardio-blood,Rasa/Rakta-vāha,Vata
+Anxiety with palpitations,Chittodvega,Cardio-blood,Rasa/Rakta-vāha,Vata
+Lethargy from poor circulation,Daurbalya,Cardio-blood,Rasa/Rakta-vāha,Vata
+Mental confusion in anemia,Smriti Bhramsha,Cardio-blood,Rasa/Rakta-vāha,Vata
+Blurred vision in anemia,Timira,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Headache in anemia,Shirashoola,Cardio-blood,Rasa/Rakta-vāha,Vata
+Lightheadedness,Bhrama,Cardio-blood,Rasa/Rakta-vāha,Vata
+Cold sweats,Swedadhikya,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Tiredness after minor effort,Daurbalya,Cardio-blood,Rasa/Rakta-vāha,Vata
+Poor wound healing,Ojakshaya,Cardio-blood,Rasa/Rakta-vāha,Tridosha
+Excessive bleeding after injury,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Clotting abnormalities,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Thick blood,Rakta Vriddhi,Cardio-blood,Rasa/Rakta-vāha,Pitta and Kapha
+Sluggish circulation,Rakta Stambha,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Hot sensation in blood,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Burning sensation in palms,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Burning sensation in soles,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Body heat rise,Raktapitta,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Excess thirst from blood vitiation,Trishna,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Dryness of skin from blood loss,Pandu,Cardio-blood,Rasa/Rakta-vāha,Vata
+Paleness of conjunctiva,Pandu,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Yellowish skin tone,Kamala,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Dark discoloration of skin,Raktadushti,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Itchy skin in blood disorder,Raktadushti,Cardio-blood,Rasa/Rakta-vāha,Pitta and Kapha
+Skin eruptions with blood vitiation,Raktadushti,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Rashes from blood disorder,Raktadushti,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Hives from blood disorder,Sheetapitta,Cardio-blood,Rasa/Rakta-vāha,Vata and Pitta
+Boils from blood impurity,Pidaka,Cardio-blood,Rasa/Rakta-vāha,Pitta
+Abscess from blood disorder,Vidradhi,Cardio-blood,Rasa/Rakta-vāha,Kapha
+Abdominal obesity,Sthoulya,Obesity,Medo-vāha,Kapha
+Central obesity,Sthoulya,Obesity,Medo-vāha,Kapha
+Thigh fat accumulation,Sthoulya,Obesity,Medo-vāha,Kapha
+Arm fat accumulation,Sthoulya,Obesity,Medo-vāha,Kapha
+Double chin,Sthoulya,Obesity,Medo-vāha,Kapha
+Neck fat pad,Sthoulya,Obesity,Medo-vāha,Kapha
+Bad body odor,Daurgandhya,Obesity,Medo-vāha,Kapha
+Shortness of breath on exertion,Shvāsa,Obesity,Medo-vāha,Vata and Kapha
+Daytime sleepiness,Nidra Atiyoga,Obesity,Medo-vāha,Kapha
+Sluggishness,Agnimandya,Obesity,Medo-vāha,Kapha
+Poor digestion,Agnimandya,Obesity,Medo-vāha,Kapha
+Loss of appetite regulation,Agnimandya,Obesity,Medo-vāha,Kapha
+Craving for salty foods,Sthoulya,Obesity,Medo-vāha,Kapha
+Thirst disturbances,Trishna,Obesity,Medo-vāha,Pitta and Kapha
+Increased thirst,Trishna,Obesity,Medo-vāha,Pitta
+Excessive saliva,Mukha Srava,Obesity,Medo-vāha,Kapha
+Thick saliva,Mukha Srava,Obesity,Medo-vāha,Kapha
+Ankle pain,Gulpha Shoola,Obesity,Medo-vāha,Vata
+Restricted mobility,Sthoulya,Obesity,Medo-vāha,Vata
+Reduced stamina,Daurbalya,Obesity,Medo-vāha,Kapha
+Mental dullness,Manas Mandya,Obesity,Medo-vāha,Kapha
+Low motivation,Manas Vyatha,Obesity,Medo-vāha,Kapha
+Swelling in feet,Shotha,Obesity,Medo-vāha,Kapha
+Abdominal fat accumulation,Sthoulya,Obesity,Medo-vāha,Kapha
+Metabolic syndrome,Sthoulya,Obesity,Medo-vāha,Kapha
+Excessive thirst in diabetes,Prameha,Obesity,Medo-vāha,Pitta
+Polycystic ovarian features,Granthi,Obesity,Medo-vāha,Kapha
+Hormonal imbalance,Sthoulya,Obesity,Medo-vāha,Kapha
+Excessive hair growth,Hirsutism,Obesity,Medo-vāha,Kapha
+Skin darkening around neck,Acanthosis Nigricans,Obesity,Medo-vāha,Kapha
+Stretch marks,Sthoulya,Obesity,Medo-vāha,Kapha
+Reduced physical activity tolerance,Sthoulya,Obesity,Medo-vāha,Vata and Kapha
+Frequent headaches,Shirashoola,Obesity,Medo-vāha,Vata
+Loss of self-confidence,Manas Vyatha,Obesity,Medo-vāha,Kapha
+Unexplained weight loss,Kshaya,Metabolic,Medo-vāha,Vata
+Unexplained weight gain,Sthoulya,Metabolic,Medo-vāha,Kapha
+High triglycerides,Medoroga,Metabolic,Medo-vāha,Kapha
+Low energy,Daurbalya,Metabolic,Medo-vāha,Vata
+Fruity breath odor,Prameha,Metabolic,Medo-vāha,Kapha
+Heat intolerance,Pittaja Roga,Metabolic,Medo-vāha,Pitta
+Skin darkening (acanthosis),Medoroga,Metabolic,Medo-vāha,Kapha
+Fluid retention,Shotha,Metabolic,Medo-vāha,Kapha
+Hypothyroidism,Manda Agni,Metabolic,Medo-vāha,Kapha
+Hyperthyroidism,Tikshna Agni,Metabolic,Medo-vāha,Pitta
+Swollen neck glands,Granthi,Metabolic,Medo-vāha,Kapha
+Excessive appetite,Kshudha Atiyoga,Metabolic,Medo-vāha,Vata
+Poor circulation,Rakta Stambha,Metabolic,Medo-vāha,Kapha
+Urinary infections,Mutrakrichra,Metabolic,Medo-vāha,Pitta
+Insulin resistance,Prameha,Metabolic,Medo-vāha,Kapha
+Low immunity,Ojakshaya,Metabolic,Medo-vāha,Tridosha
+Body heaviness,Gaurava,Metabolic,Medo-vāha,Kapha
+Poor tolerance to exertion,Daurbalya,Metabolic,Medo-vāha,Vata
+Elbow pain,Kubital Shoola,Musculoskeletal,Asthi-vāha,Vata
+Wrist pain,Manibandha Shoola,Musculoskeletal,Asthi-vāha,Vata
+Foot pain,Padashoola,Musculoskeletal,Asthi-vāha,Vata
+Bone weakness,Asthi Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Recurrent fractures,Bhagna,Musculoskeletal,Asthi-vāha,Vata
+Delayed fracture healing,Bhagna,Musculoskeletal,Asthi-vāha,Vata
+Bone deformity,Asthi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Curved spine,Kubjata,Musculoskeletal,Asthi-vāha,Vata
+Kyphosis,Kubjata,Musculoskeletal,Asthi-vāha,Vata
+Lordosis,Kubjata,Musculoskeletal,Asthi-vāha,Vata
+Low back stiffness,Kati Shoola,Musculoskeletal,Asthi-vāha,Vata and Kapha
+Sciatica,Gridhrasi,Musculoskeletal,Asthi-vāha,Vata
+Numbness in leg,Supti,Musculoskeletal,Asthi-vāha,Vata
+Tingling in leg,Supti,Musculoskeletal,Asthi-vāha,Vata
+Muscle stiffness,Mamsa Sanghata,Musculoskeletal,Asthi-vāha,Vata and Kapha
+Restricted shoulder movement,Ansashoola,Musculoskeletal,Asthi-vāha,Vata and Kapha
+Carpal tunnel-like pain,Manibandha Vikara,Musculoskeletal,Asthi-vāha,Vata
+Hand joint pain,Hasta Sandhi Shoola,Musculoskeletal,Asthi-vāha,Vata
+Finger joint stiffness,Hasta Sandhi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Finger deformity,Hasta Vikara,Musculoskeletal,Asthi-vāha,Vata
+Swollen fingers,Hasta Shotha,Musculoskeletal,Asthi-vāha,Kapha
+Toe joint pain,Padashoola,Musculoskeletal,Asthi-vāha,Vata
+Toe deformity,Padavikara,Musculoskeletal,Asthi-vāha,Vata
+Flat feet,Padavikara,Musculoskeletal,Asthi-vāha,Kapha
+Plantar fasciitis-like pain,Padashoola,Musculoskeletal,Asthi-vāha,Vata
+Heel pain,Padashoola,Musculoskeletal,Asthi-vāha,Vata
+Jaw joint pain,Hanu Shoola,Musculoskeletal,Asthi-vāha,Vata
+Jaw stiffness,Hanu Vikara,Musculoskeletal,Asthi-vāha,Vata
+Teeth grinding (bruxism),Hanu Vikara,Musculoskeletal,Asthi-vāha,Vata
+Cervical spondylosis,Griva Vikara,Musculoskeletal,Asthi-vāha,Vata
+Lumbar spondylosis,Kati Vikara,Musculoskeletal,Asthi-vāha,Vata
+Spinal stiffness,Prishtha Stambha,Musculoskeletal,Asthi-vāha,Vata
+Spinal pain,Prishtha Shoola,Musculoskeletal,Asthi-vāha,Vata
+Herniated disc,Vata Vyadhi,Musculoskeletal,Asthi-vāha,Vata
+Disc degeneration,Vata Vyadhi,Musculoskeletal,Asthi-vāha,Vata
+Spinal nerve compression,Vata Vyadhi,Musculoskeletal,Asthi-vāha,Vata
+Leg cramps,Mamsa Spandana,Musculoskeletal,Asthi-vāha,Vata
+Swollen knees,Janu Shotha,Musculoskeletal,Asthi-vāha,Kapha
+Crepitus in knee,Janu Sandhi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Knee instability,Janu Vikara,Musculoskeletal,Asthi-vāha,Vata
+Hip stiffness,Kati Vikara,Musculoskeletal,Asthi-vāha,Vata
+Hip deformity,Kati Vikara,Musculoskeletal,Asthi-vāha,Vata
+Pelvic pain,Kati Shoola,Musculoskeletal,Asthi-vāha,Vata
+Pelvic stiffness,Kati Vikara,Musculoskeletal,Asthi-vāha,Vata
+Bone marrow weakness,Majja Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Bone brittleness,Asthi Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Fragile bones,Asthi Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Delayed bone growth,Asthi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Joint creaking sound,Sandhi Nada,Musculoskeletal,Asthi-vāha,Vata
+Cracking joints,Sandhi Nada,Musculoskeletal,Asthi-vāha,Vata
+Joint instability,Sandhi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Swollen ankles,Gulpha Shotha,Musculoskeletal,Asthi-vāha,Kapha
+Foot deformity,Padavikara,Musculoskeletal,Asthi-vāha,Vata
+Hand weakness,Hasta Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Shoulder instability,Ansavikara,Musculoskeletal,Asthi-vāha,Vata
+Recurrent dislocation,Bhagna,Musculoskeletal,Asthi-vāha,Vata
+Tendon pain,Sira Shoola,Musculoskeletal,Asthi-vāha,Vata
+Tendon stiffness,Sira Vikara,Musculoskeletal,Asthi-vāha,Vata
+Ligament pain,Sira Shoola,Musculoskeletal,Asthi-vāha,Vata
+Ligament laxity,Sira Vikara,Musculoskeletal,Asthi-vāha,Vata
+Strain,Snayu Vikara,Musculoskeletal,Asthi-vāha,Vata
+Soft tissue swelling,Mamsa Shotha,Musculoskeletal,Asthi-vāha,Kapha
+Myalgia,Mamsa Shoola,Musculoskeletal,Asthi-vāha,Vata
+Polymyalgia-like pain,Mamsa Shoola,Musculoskeletal,Asthi-vāha,Vata
+Generalized body ache,Angamarda,Musculoskeletal,Asthi-vāha,Vata
+Fatigue-related body ache,Angamarda,Musculoskeletal,Asthi-vāha,Vata
+Stiff gait,Vata Vyadhi,Musculoskeletal,Asthi-vāha,Vata
+Limping gait,Vata Vyadhi,Musculoskeletal,Asthi-vāha,Vata
+Weak grip strength,Hasta Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Reduced hand dexterity,Hasta Vikara,Musculoskeletal,Asthi-vāha,Vata
+Frozen fingers,Hasta Vikara,Musculoskeletal,Asthi-vāha,Vata
+Weak bones in children,Asthi Kshaya,Musculoskeletal,Asthi-vāha,Vata
+Rickets-like deformity,Asthi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Osteomalacia-like weakness,Asthi Vikara,Musculoskeletal,Asthi-vāha,Vata
+Bell’s palsy,Ardita,Nervous,Majjā-vāha,Vata
+Fine tremors,Kampavata,Nervous,Majjā-vāha,Vata
+Resting tremors,Kampavata,Nervous,Majjā-vāha,Vata
+Intention tremors,Kampavata,Nervous,Majjā-vāha,Vata
+Shaking hands,Kampavata,Nervous,Majjā-vāha,Vata
+Epileptic convulsions,Apasmara,Nervous,Majjā-vāha,Vata
+Unconsciousness,Murchha,Nervous,Majjā-vāha,Vata and Pitta
+Syncope,Murchha,Nervous,Majjā-vāha,Vata
+Fainting spells,Murchha,Nervous,Majjā-vāha,Vata
+Throbbing headache,Ardhavabhedaka,Nervous,Majjā-vāha,Pitta
+Cluster headache,Shirashoola,Nervous,Majjā-vāha,Vata
+Nerve pain,Nadi Shoola,Nervous,Majjā-vāha,Vata
+Neuropathy,Nadi Dushti,Nervous,Majjā-vāha,Vata
+Burning feet,Daha,Nervous,Majjā-vāha,Pitta
+Burning hands,Daha,Nervous,Majjā-vāha,Pitta
+Pins and needles,Supti,Nervous,Majjā-vāha,Vata
+Loss of coordination,Ataxia,Nervous,Majjā-vāha,Vata
+Dragging foot gait,Padagati Vikara,Nervous,Majjā-vāha,Vata
+Loss of speech,Vak Stambha,Nervous,Majjā-vāha,Vata
+Short-term memory loss,Smriti Bhramsha,Nervous,Majjā-vāha,Vata
+Long-term memory loss,Smriti Bhramsha,Nervous,Majjā-vāha,Vata
+Dementia,Smriti Nashta,Nervous,Majjā-vāha,Vata
+Difficulty focusing,Dhriti Bhramsha,Nervous,Majjā-vāha,Vata
+Sleep paralysis,Anidra,Nervous,Majjā-vāha,Vata
+Emotional instability,Unmada,Nervous,Majjā-vāha,Vata
+Autonomic dysfunction,Nadi Dushti,Nervous,Majjā-vāha,Vata
+Poor reflexes,Nadi Dushti,Nervous,Majjā-vāha,Vata
+Hyperreflexia,Nadi Vikara,Nervous,Majjā-vāha,Pitta
+Hyporeflexia,Nadi Vikara,Nervous,Majjā-vāha,Vata
+Spasticity,Mamsa Sanghata,Nervous,Majjā-vāha,Vata
+Rigidity,Stambha,Nervous,Majjā-vāha,Vata
+Flaccidity,Mamsa Kshaya,Nervous,Majjā-vāha,Vata
+Spasms,Mamsa Sanghata,Nervous,Majjā-vāha,Vata
+Restless legs,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Postural instability,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Torticollis,Griva Vikara,Nervous,Majjā-vāha,Vata
+Double vision,Timira,Nervous,Majjā-vāha,Vata and Pitta
+Vision loss,Timira,Nervous,Majjā-vāha,Vata
+Ringing in ears,Karna Nada,Nervous,Majjā-vāha,Vata
+Ear fullness,Karna Purana,Nervous,Majjā-vāha,Kapha
+Balance loss,Bhrama,Nervous,Majjā-vāha,Vata
+Poor motor control,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Clumsiness,Ataxia,Nervous,Majjā-vāha,Vata
+Leg weakness,Padakshaya,Nervous,Majjā-vāha,Vata
+Foot drop,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Grip weakness,Hasta Vikara,Nervous,Majjā-vāha,Vata
+Speech slurring,Vak Vikara,Nervous,Majjā-vāha,Vata
+Loss of bladder control,Mutra Vega Dharana Hani,Nervous,Majjā-vāha,Vata
+Loss of bowel control,Purisha Vega Dharana Hani,Nervous,Majjā-vāha,Vata
+Difficulty urinating,Mutrakrichra,Nervous,Majjā-vāha,Vata
+Drooling,Mukha Srava,Nervous,Majjā-vāha,Kapha
+Difficulty chewing,Hanu Vikara,Nervous,Majjā-vāha,Vata
+Jaw clenching,Hanu Vikara,Nervous,Majjā-vāha,Vata
+Chorea-like movements,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Involuntary jerks,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Tics,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Convulsions with fever,Jvara+Apasmara,Nervous,Majjā-vāha,Vata and Pitta
+Attention deficit,Dhriti Bhramsha,Nervous,Majjā-vāha,Vata
+Cognitive decline,Smriti Bhramsha,Nervous,Majjā-vāha,Vata
+Learning difficulties,Medha Hani,Nervous,Majjā-vāha,Vata
+Low alertness,Manas Mandya,Nervous,Majjā-vāha,Kapha
+Irrational behavior,Unmada,Nervous,Majjā-vāha,Vata
+Speech loss,Vak Stambha,Nervous,Majjā-vāha,Vata
+Drooping face,Ardita,Nervous,Majjā-vāha,Vata
+Abnormal gait,Vata Vyadhi,Nervous,Majjā-vāha,Vata
+Staggering gait,Ataxia,Nervous,Majjā-vāha,Vata
+Weak reflexes,Nadi Vikara,Nervous,Majjā-vāha,Vata
+Overactive reflexes,Nadi Vikara,Nervous,Majjā-vāha,Pitta
+Trembling voice,Swarabheda,Nervous,Majjā-vāha,Vata
+Loss of coordination in hands,Hasta Vikara,Nervous,Majjā-vāha,Vata
+Poor sperm motility,Shukra Dushti,Reproductive – male,Śukra-vāha,Kapha
+Abnormal sperm morphology,Shukra Dushti,Reproductive – male,Śukra-vāha,Pitta
+Weak erection,Klaibya,Reproductive – male,Śukra-vāha,Vata
+Delayed ejaculation,Klaibya,Reproductive – male,Śukra-vāha,Vata
+Absence of ejaculation,Klaibya,Reproductive – male,Śukra-vāha,Vata
+Nocturnal emissions,Swapnadosha,Reproductive – male,Śukra-vāha,Vata
+Excessive semen discharge,Shukra Atipravritti,Reproductive – male,Śukra-vāha,Vata
+Semen leakage after urination,Shukrameha,Reproductive – male,Śukra-vāha,Vata
+Blood in semen,Shukra Raktadosha,Reproductive – male,Śukra-vāha,Pitta
+Thick semen,Shukra Dushti,Reproductive – male,Śukra-vāha,Kapha
+Thin watery semen,Shukra Kshaya,Reproductive – male,Śukra-vāha,Vata
+Loss of semen vitality,Shukra Kshaya,Reproductive – male,Śukra-vāha,Vata
+Testicular pain,Shukra Shoola,Reproductive – male,Śukra-vāha,Vata
+Swollen testicles,Shukra Shotha,Reproductive – male,Śukra-vāha,Kapha
+Testicular heaviness,Shukra Shotha,Reproductive – male,Śukra-vāha,Kapha
+Testicular atrophy,Shukra Kshaya,Reproductive – male,Śukra-vāha,Vata
+Enlarged testicles,Shukra Vriddhi,Reproductive – male,Śukra-vāha,Kapha
+Varicocele,Sira Vikara,Reproductive – male,Śukra-vāha,Vata and Kapha
+Hydrocele,Jalodara,Reproductive – male,Śukra-vāha,Kapha
+Groin pain,Shukra Shoola,Reproductive – male,Śukra-vāha,Vata
+Scrotal swelling,Shukra Shotha,Reproductive – male,Śukra-vāha,Kapha
+Scrotal itching,Shukra Dushti,Reproductive – male,Śukra-vāha,Kapha
+Penile pain,Shukra Shoola,Reproductive – male,Śukra-vāha,Vata
+Penile ulcers,Shukra Dushti,Reproductive – male,Śukra-vāha,Pitta
+Penile curvature,Shukra Vikara,Reproductive – male,Śukra-vāha,Vata
+Phimosis,Shukra Vikara,Reproductive – male,Śukra-vāha,Kapha
+Paraphimosis,Shukra Vikara,Reproductive – male,Śukra-vāha,Vata
+Penile discharge,Shukra Dushti,Reproductive – male,Śukra-vāha,Pitta and Kapha
+Urinary dribbling,Mutraghata,Reproductive – male,Śukra-vāha,Vata
+Prostate enlargement,Shukra Granthi,Reproductive – male,Śukra-vāha,Kapha
+Prostatitis,Shukra Dushti,Reproductive – male,Śukra-vāha,Pitta
+Perineal pain,Shukra Shoola,Reproductive – male,Śukra-vāha,Vata
+Lower abdominal pain,Shukra Shoola,Reproductive – male,Śukra-vāha,Vata
+Pelvic heaviness,Shukra Shotha,Reproductive – male,Śukra-vāha,Kapha
+Sexual exhaustion,Shukra Kshaya,Reproductive – male,Śukra-vāha,Vata
+Loss of strength after sex,Daurbalya,Reproductive – male,Śukra-vāha,Vata
+Mental fatigue after sex,Manas Kshaya,Reproductive – male,Śukra-vāha,Vata
+Weak body constitution,Shukra Kshaya,Reproductive – male,Śukra-vāha,Vata
+Premature aging,Kshaya,Reproductive – male,Śukra-vāha,Vata
+Early graying of hair,Palitya,Reproductive – male,Śukra-vāha,Pitta
+Absent menstruation,Artava Kshaya,Reproductive – female,Artava-vāha,Vata and Kapha
+Prolonged menstruation,Rakta Pradara,Reproductive – female,Artava-vāha,Pitta
+Frequent menstruation,Artava Atipravritti,Reproductive – female,Artava-vāha,Pitta
+Painful menstruation,Dysmenorrhea (Kashtartava),Reproductive – female,Artava-vāha,Vata
+Pelvic cramps,Kashtartava,Reproductive – female,Artava-vāha,Vata
+Back pain during periods,Kashtartava,Reproductive – female,Artava-vāha,Vata
+Abdominal bloating during periods,Kashtartava,Reproductive – female,Artava-vāha,Vata
+Breast tenderness,Stana Shoola,Reproductive – female,Artava-vāha,Kapha
+Breast swelling,Stana Shotha,Reproductive – female,Artava-vāha,Kapha
+Premenstrual syndrome,Artava Dushti,Reproductive – female,Artava-vāha,Tridosha
+Mood swings before periods,Artava Dushti,Reproductive – female,Artava-vāha,Vata and Pitta
+Irritability before periods,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Headache before periods,Artava Dushti,Reproductive – female,Artava-vāha,Vata
+Acne during periods,Pittaja Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Excessive sweating during periods,Pittaja Vikara,Reproductive – female,Artava-vāha,Pitta
+Fatigue during periods,Daurbalya,Reproductive – female,Artava-vāha,Vata
+Low energy after menstruation,Daurbalya,Reproductive – female,Artava-vāha,Vata
+Clotting in menstrual blood,Artava Dushti,Reproductive – female,Artava-vāha,Kapha
+Foul smelling menstrual blood,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Watery menstrual blood,Artava Dushti,Reproductive – female,Artava-vāha,Vata
+Dark menstrual blood,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Precocious puberty,Artava Vriddhi,Reproductive – female,Artava-vāha,Pitta
+Polycystic ovarian symptoms,Granthi,Reproductive – female,Artava-vāha,Kapha
+Ovarian cysts,Granthi,Reproductive – female,Artava-vāha,Kapha
+Endometriosis,Artava Dushti,Reproductive – female,Artava-vāha,Vata and Pitta
+Chronic pelvic inflammation,Artava Shotha,Reproductive – female,Artava-vāha,Pitta
+Fibroids,Granthi,Reproductive – female,Artava-vāha,Kapha
+Excessive uterine bleeding,Rakta Pradara,Reproductive – female,Artava-vāha,Pitta
+Spotting between periods,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Intermenstrual bleeding,Rakta Pradara,Reproductive – female,Artava-vāha,Pitta
+Ovulation pain,Artava Shoola,Reproductive – female,Artava-vāha,Vata
+Mid-cycle spotting,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Difficulty conceiving,Vandhyatva,Reproductive – female,Artava-vāha,Vata and Kapha
+Habitual abortion,Artava Dushti,Reproductive – female,Artava-vāha,Vata
+Low ovarian reserve,Artava Kshaya,Reproductive – female,Artava-vāha,Vata
+Premature ovarian failure,Artava Kshaya,Reproductive – female,Artava-vāha,Vata
+Hot flashes,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Pitta
+Vaginal dryness,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Vata
+Vaginal burning,Yonivyapad,Reproductive – female,Artava-vāha,Pitta
+Vaginal itching,Yonivyapad,Reproductive – female,Artava-vāha,Kapha
+Vaginal discharge,Shweta Pradara,Reproductive – female,Artava-vāha,Kapha
+Foul smelling discharge,Shweta Pradara,Reproductive – female,Artava-vāha,Pitta
+Excessive discharge,Shweta Pradara,Reproductive – female,Artava-vāha,Kapha
+Thick white discharge,Shweta Pradara,Reproductive – female,Artava-vāha,Kapha
+Thin watery discharge,Shweta Pradara,Reproductive – female,Artava-vāha,Vata
+Greenish discharge,Yonivyapad,Reproductive – female,Artava-vāha,Pitta
+Yellow discharge,Yonivyapad,Reproductive – female,Artava-vāha,Pitta
+Blood-stained discharge,Yonivyapad,Reproductive – female,Artava-vāha,Pitta
+Pain during intercourse,Dyspareunia (Maithuna Asahishnuta),Reproductive – female,Artava-vāha,Vata
+Vaginal tightness,Artava Shoola,Reproductive – female,Artava-vāha,Vata
+Excess sexual desire,Atichar,Reproductive – female,Artava-vāha,Pitta
+Low sexual desire,Artava Dushti,Reproductive – female,Artava-vāha,Kapha
+Menopausal anxiety,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Vata
+Menopausal depression,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Kapha
+Insomnia in menopause,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Vata
+Weight gain in menopause,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Kapha
+Bone pain after menopause,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Vata
+Hair loss after menopause,Rajonivritti Lakshana,Reproductive – female,Artava-vāha,Pitta
+Delayed menopause,Artava Vriddhi,Reproductive – female,Artava-vāha,Kapha
+Polycystic ovaries,Granthi,Reproductive – female,Artava-vāha,Kapha
+Obesity-related infertility,Medo-vriddhi Vandhyatva,Reproductive – female,Artava-vāha,Kapha
+Thin body infertility,Kshaya Vandhyatva,Reproductive – female,Artava-vāha,Vata
+Chronic pelvic pain,Artava Shoola,Reproductive – female,Artava-vāha,Vata
+Ovarian torsion,Artava Shoola,Reproductive – female,Artava-vāha,Vata
+Tubal blockage,Sanga Vandhyatva,Reproductive – female,Artava-vāha,Kapha
+Endometrial hyperplasia,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Uterine polyps,Granthi,Reproductive – female,Artava-vāha,Kapha
+Pelvic infections,Yonivyapad,Reproductive – female,Artava-vāha,Pitta
+Cervical erosion,Yonivyapad,Reproductive – female,Artava-vāha,Pitta
+Cervical discharge,Yonivyapad,Reproductive – female,Artava-vāha,Kapha
+Cervical pain,Yonivyapad,Reproductive – female,Artava-vāha,Vata
+Postcoital bleeding,Artava Dushti,Reproductive – female,Artava-vāha,Pitta
+Infertility due to infection,Yonivyapad Vandhyatva,Reproductive – female,Artava-vāha,Pitta
+Postpartum weakness,Sutika Daurbalya,Reproductive – female,Artava-vāha,Vata
+Postpartum depression,Sutika Vishada,Reproductive – female,Artava-vāha,Kapha
+Postpartum anxiety,Sutika Chittodvega,Reproductive – female,Artava-vāha,Vata
+Postpartum bleeding,Artava Atipravritti,Reproductive – female,Artava-vāha,Pitta
+Postpartum pelvic pain,Artava Shoola,Reproductive – female,Artava-vāha,Vata
+Lactation failure,Stanya Kshaya,Reproductive – female,Artava-vāha,Vata and Kapha
+Low breast milk,Stanya Kshaya,Reproductive – female,Artava-vāha,Vata
+Excess breast milk,Stanya Vriddhi,Reproductive – female,Artava-vāha,Kapha
+Painful breastfeeding,Stanya Shoola,Reproductive – female,Artava-vāha,Vata
+Breast engorgement,Stanya Shotha,Reproductive – female,Artava-vāha,Kapha
+Mastitis,Stanya Dushti,Reproductive – female,Artava-vāha,Pitta
+Nipple cracks,Stanya Dushti,Reproductive – female,Artava-vāha,Vata
+Nipple pain,Stanya Shoola,Reproductive – female,Artava-vāha,Vata
+Difficulty starting urination,Mutraghata,Urinary,Mutra-vāha,Vata
+Interrupted urine flow,Mutraghata,Urinary,Mutra-vāha,Vata
+Weak urine stream,Mutraghata,Urinary,Mutra-vāha,Vata
+Straining to urinate,Mutraghata,Urinary,Mutra-vāha,Vata
+Incomplete bladder emptying,Mutraghata,Urinary,Mutra-vāha,Vata
+Dribbling of urine,Mutraghata,Urinary,Mutra-vāha,Vata
+Urgency to urinate,Mutrakrichra,Urinary,Mutra-vāha,Vata
+Incontinence of urine,Mutranirgraha,Urinary,Mutra-vāha,Vata
+Foul-smelling urine,Mutra Dushti,Urinary,Mutra-vāha,Pitta
+Nocturia,Ratri Mutrapravritti,Urinary,Mutra-vāha,Kapha
+Pain in bladder region,Basti Shoola,Urinary,Mutra-vāha,Vata
+Pelvic pain during urination,Basti Shoola,Urinary,Mutra-vāha,Vata
+Lower abdominal heaviness,Basti Shoola,Urinary,Mutra-vāha,Kapha
+Burning bladder sensation,Basti Daha,Urinary,Mutra-vāha,Pitta
+Flank pain,Vrikkashoola,Urinary,Mutra-vāha,Vata
+Stone pain,Ashmari Shoola,Urinary,Mutra-vāha,Vata
+Passing kidney stones,Ashmari,Urinary,Mutra-vāha,Vata and Kapha
+Gritty particles in urine,Ashmari,Urinary,Mutra-vāha,Kapha
+Recurrent urinary infection,Mutrakrichra,Urinary,Mutra-vāha,Pitta and Kapha
+Burning urethra,Daha,Urinary,Mutra-vāha,Pitta
+Itching in urethra,Mutra Dushti,Urinary,Mutra-vāha,Kapha
+Swelling in urethra,Mutra Shotha,Urinary,Mutra-vāha,Kapha
+Pain in urethra,Mutrakrichra,Urinary,Mutra-vāha,Vata
+Difficulty controlling urine,Mutranirgraha,Urinary,Mutra-vāha,Vata
+Frequent small urinations,Mutrakrichra,Urinary,Mutra-vāha,Vata
+Retention with overflow,Mutraghata,Urinary,Mutra-vāha,Vata
+Urinary hesitancy,Mutraghata,Urinary,Mutra-vāha,Vata
+Dark yellow urine,Mutra Dushti,Urinary,Mutra-vāha,Pitta
+Pale urine,Mutra Kshaya,Urinary,Mutra-vāha,Vata
+Excessive thirst with urination,Prameha,Urinary,Mutra-vāha,Pitta and Kapha
+Foamy urine,Mutra Dushti,Urinary,Mutra-vāha,Kapha
+Swelling of feet with urinary issues,Mutraghata,Urinary,Mutra-vāha,Kapha
+Lower back pain with urination,Vrikkashoola,Urinary,Mutra-vāha,Vata
+Pain radiating to groin,Ashmari Shoola,Urinary,Mutra-vāha,Vata
+Frequent urination with weakness,Prameha,Urinary,Mutra-vāha,Kapha
+Thick urine,Mutra Dushti,Urinary,Mutra-vāha,Kapha
+Thin watery urine,Mutra Kshaya,Urinary,Mutra-vāha,Vata
+Pus in urine,Mutrapuya,Urinary,Mutra-vāha,Pitta and Kapha
+Urinary dribbling post-void,Mutraghata,Urinary,Mutra-vāha,Vata
+Pain in prostate region,Mutraghata,Urinary,Mutra-vāha,Vata and Kapha
+Difficulty urinating at night,Ratri Mutrapravritti,Urinary,Mutra-vāha,Kapha
+Burning sensation after urination,Daha,Urinary,Mutra-vāha,Pitta
+Profuse sweating on head,Atisveda,Sweat,Sveda-vāha,Pitta
+Profuse sweating on palms,Atisveda,Sweat,Sveda-vāha,Pitta
+Profuse sweating on soles,Atisveda,Sweat,Sveda-vāha,Pitta
+Generalized body sweating,Atisveda,Sweat,Sveda-vāha,Pitta
+Hot sweats,Atisveda,Sweat,Sveda-vāha,Pitta
+Localized sweating,Atisveda,Sweat,Sveda-vāha,Kapha
+Sweating only on half body,Atisveda,Sweat,Sveda-vāha,Vata
+Sweating only on face,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating on armpits,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating on groin,Atisveda,Sweat,Sveda-vāha,Kapha
+Sweating on chest,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating on back,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating on scalp,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating on neck,Atisveda,Sweat,Sveda-vāha,Pitta
+Excessive sweating during fever,Jvara,Sweat,Sveda-vāha,Pitta
+Sweating after exertion,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating during anxiety,Atisveda,Sweat,Sveda-vāha,Vata
+Sweating during stress,Atisveda,Sweat,Sveda-vāha,Vata
+Sweating during fear,Atisveda,Sweat,Sveda-vāha,Vata
+Sweating during sleep,Atisveda,Sweat,Sveda-vāha,Kapha
+Sweating during eating,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating after spicy food,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating after alcohol,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating after hot drinks,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating in warm climate,Atisveda,Sweat,Sveda-vāha,Pitta
+Sweating in cold climate,Atisveda,Sweat,Sveda-vāha,Vata
+Sweating in humid climate,Atisveda,Sweat,Sveda-vāha,Kapha
+Reduced sweating,Asveda,Sweat,Sveda-vāha,Vata
+Dry skin with no sweat,Asveda,Sweat,Sveda-vāha,Vata
+Sweating stops suddenly,Asveda,Sweat,Sveda-vāha,Vata
+Blocked sweat pores,Asveda,Sweat,Sveda-vāha,Kapha
+Minimal sweating on exertion,Asveda,Sweat,Sveda-vāha,Vata
+Minimal sweating during fever,Asveda,Sweat,Sveda-vāha,Vata
+Uneven sweating,Asveda,Sweat,Sveda-vāha,Vata
+Sweating reduced in limbs,Asveda,Sweat,Sveda-vāha,Vata
+Sweating reduced in face,Asveda,Sweat,Sveda-vāha,Vata
+Excessively foul sweat,Gandha Sveda,Sweat,Sveda-vāha,Pitta
+Fishy odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Pitta
+Rancid odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Sweet odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Sour odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Pitta
+Ammonia-like odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Pitta
+Pungent odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Pitta
+Musty odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Rotten odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Salty odor sweat,Gandha Sveda,Sweat,Sveda-vāha,Pitta
+Excessive sweating in armpits with odor,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Excessive sweating in feet with odor,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Excessive sweating in groin with odor,Gandha Sveda,Sweat,Sveda-vāha,Kapha
+Sweat with sticky nature,Pichhila Sveda,Sweat,Sveda-vāha,Kapha
+Sweat with oily texture,Sneha Sveda,Sweat,Sveda-vāha,Kapha
+Sweat with frothy nature,Pichhila Sveda,Sweat,Sveda-vāha,Vata
+Sweat with burning sensation,Daha Sveda,Sweat,Sveda-vāha,Pitta
+Sweat with itching,Kandu Sveda,Sweat,Sveda-vāha,Kapha
+Sweat with rashes,Visarpa,Sweat,Sveda-vāha,Pitta
+Sweat with eruptions,Kushta,Sweat,Sveda-vāha,Pitta and Kapha
+Sweat with boils,Pidaka,Sweat,Sveda-vāha,Pitta
+Sweat with blisters,Pidaka,Sweat,Sveda-vāha,Pitta
+Sweat with discoloration,Vaivarnya,Sweat,Sveda-vāha,Pitta
+Yellow sweat,Pita Sveda,Sweat,Sveda-vāha,Pitta
+Red-tinged sweat,Rakta Sveda,Sweat,Sveda-vāha,Pitta
+Brownish sweat,Pitta Dushti,Sweat,Sveda-vāha,Pitta
+Blackish sweat,Vata Dushti,Sweat,Sveda-vāha,Vata
+Whitish sweat,Kapha Dushti,Sweat,Sveda-vāha,Kapha
+Greenish sweat,Pitta Dushti,Sweat,Sveda-vāha,Pitta
+Blue sweat,Vata Dushti,Sweat,Sveda-vāha,Vata
+Sweating after chills,Jvara Sveda,Sweat,Sveda-vāha,Vata
+Sweating with body ache,Jvara Sveda,Sweat,Sveda-vāha,Vata
+Sweating with shivering,Jvara Sveda,Sweat,Sveda-vāha,Vata
+Sweating with fainting,Murchha,Sweat,Sveda-vāha,Vata
+Sweating with dizziness,Bhrama,Sweat,Sveda-vāha,Vata
+Sweating with palpitations,Hridaya Vikara,Sweat,Sveda-vāha,Vata and Pitta
+Sweating with chest pain,Hridaya Shoola,Sweat,Sveda-vāha,Vata and Pitta
+Sweating with anxiety,Chittodvega,Sweat,Sveda-vāha,Vata
+Sweating with fear,Bhaya Lakshana,Sweat,Sveda-vāha,Vata
+Sweating with anger,Krodha Lakshana,Sweat,Sveda-vāha,Pitta
+Sweating with depression,Vishada,Sweat,Sveda-vāha,Kapha
+Sweating with epilepsy,Apasmara,Sweat,Sveda-vāha,Vata
+Sweating with convulsions,Apasmara,Sweat,Sveda-vāha,Vata
+Sweating with delirium,Unmada,Sweat,Sveda-vāha,Pitta
+Sweating with heat stroke,Daha,Sweat,Sveda-vāha,Pitta
+Sweating with dehydration,Trishna,Sweat,Sveda-vāha,Vata and Pitta
+Sweating with giddiness,Bhrama,Sweat,Sveda-vāha,Vata
+Sweating with nausea,Chhardi,Sweat,Sveda-vāha,Pitta
+Sweating with vomiting,Chhardi,Sweat,Sveda-vāha,Pitta
+Sweating with diarrhea,Atisara,Sweat,Sveda-vāha,Vata and Pitta
+Sweating with constipation,Vibandha,Sweat,Sveda-vāha,Vata
+Sweating with indigestion,Ajeerna,Sweat,Sveda-vāha,Kapha
+Sweating with acid reflux,Amlapitta,Sweat,Sveda-vāha,Pitta
+Sweating with ulcers,Shleshma-Pitta Dushti,Sweat,Sveda-vāha,Pitta
+Sweating with jaundice,Kamala,Sweat,Sveda-vāha,Pitta
+Sweating with anemia,Pandu,Sweat,Sveda-vāha,Vata and Pitta
+Sweating with obesity,Medoroga,Sweat,Sveda-vāha,Kapha
+Sweating with diabetes,Prameha,Sweat,Sveda-vāha,Kapha
+Sweating with thyroid imbalance,Galaganda,Sweat,Sveda-vāha,Kapha
+Sweating with liver disease,Yakrit Vikara,Sweat,Sveda-vāha,Pitta
+Sweating with kidney disease,Vrikka Vikara,Sweat,Sveda-vāha,Vata
+Sweating with skin rash,Kushta,Sweat,Sveda-vāha,Pitta and Kapha
+Sweating with eczema,Kushta,Sweat,Sveda-vāha,Kapha
+Sweating with psoriasis,Kushta,Sweat,Sveda-vāha,Pitta
+Sweating with fungal infection,Dadru,Sweat,Sveda-vāha,Kapha
+Sweating with boils,Pidaka,Sweat,Sveda-vāha,Pitta
+Sweating with abscess,Pidaka,Sweat,Sveda-vāha,Pitta
+Sweating with urticaria,Sheetapitta,Sweat,Sveda-vāha,Vata and Pitta
+Sweating with prickly heat,Lavana Sveda,Sweat,Sveda-vāha,Pitta
+Sweating with burning feet,Padadaha,Sweat,Sveda-vāha,Pitta
+Sweating with burning hands,Hastadaha,Sweat,Sveda-vāha,Pitta
+Sweating with tingling,Supti Lakshana,Sweat,Sveda-vāha,Vata
+Sweating with numbness,Supti Lakshana,Sweat,Sveda-vāha,Vata
+Sweating with weakness after exertion,Daurbalya,Sweat,Sveda-vāha,Vata
+Sweating with fatigue,Klanti,Sweat,Sveda-vāha,Vata
+Sweating with lethargy,Alasya,Sweat,Sveda-vāha,Kapha
+Sweating with body heaviness,Gaurava,Sweat,Sveda-vāha,Kapha
+Chronic recurrent fever,Vishama Jvara,thermoregulation,Sveda-vāha,Vata and Pitta
+Sudden onset fever,Atyayika Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with chills,Sheetaj Jvara,thermoregulation,Sveda-vāha,Vata and Kapha
+Fever with sweating,Sweda Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with shivering,Kampa Jvara,thermoregulation,Sveda-vāha,Vata
+Daytime sweats,Atisveda,thermoregulation,Sveda-vāha,Pitta
+Absence of sweating,Asveda,thermoregulation,Sveda-vāha,Vata
+Flushes of heat,Ushna Vega,thermoregulation,Sveda-vāha,Pitta
+Chills without fever,Sheetaj Lakshana,thermoregulation,Sveda-vāha,Vata
+Rigors,Sheetaj Jvara,thermoregulation,Sveda-vāha,Vata
+Sudden body heat,Daha,thermoregulation,Sveda-vāha,Pitta
+Excess body heat,Ushna Sharira,thermoregulation,Sveda-vāha,Pitta
+Burning palms,Hastadaha,thermoregulation,Sveda-vāha,Pitta
+Burning soles,Padadaha,thermoregulation,Sveda-vāha,Pitta
+Burning chest,Urah Daha,thermoregulation,Sveda-vāha,Pitta
+Burning stomach,Udara Daha,thermoregulation,Sveda-vāha,Pitta
+Burning head,Shira Daha,thermoregulation,Sveda-vāha,Pitta
+Hot body temperature,Ushna Sharira,thermoregulation,Sveda-vāha,Pitta
+Cold hands,Sheetata Hasta,thermoregulation,Sveda-vāha,Vata
+Cold feet,Sheetata Pada,thermoregulation,Sveda-vāha,Vata
+Cold nose,Sheetata Nasa,thermoregulation,Sveda-vāha,Vata
+Cold ears,Sheetata Karna,thermoregulation,Sveda-vāha,Vata
+Fever with delirium,Unmada Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with confusion,Moha Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with fainting,Murchha Jvara,thermoregulation,Sveda-vāha,Vata
+Fever with convulsions,Apasmara Jvara,thermoregulation,Sveda-vāha,Vata
+Cyclical fever,Vishama Jvara,thermoregulation,Sveda-vāha,Vata
+Tertian fever,Vishama Jvara,thermoregulation,Sveda-vāha,Vata
+Quartan fever,Vishama Jvara,thermoregulation,Sveda-vāha,Vata
+Continuous fever,Santata Jvara,thermoregulation,Sveda-vāha,Pitta
+Relapsing fever,Vishama Jvara,thermoregulation,Sveda-vāha,Vata
+Evening rise of temperature,Ratri Jvara,thermoregulation,Sveda-vāha,Pitta
+Morning rise of temperature,Prataha Jvara,thermoregulation,Sveda-vāha,Kapha
+Afternoon rise of temperature,Madhyahna Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with sweating and weakness,Sweda Jvara,thermoregulation,Sveda-vāha,Vata and Pitta
+Fever with body pain,Shula Jvara,thermoregulation,Sveda-vāha,Vata
+Fever with headache,Shiro Jvara,thermoregulation,Sveda-vāha,Vata
+Fever with burning eyes,Netra Daha,thermoregulation,Sveda-vāha,Pitta
+Fever with thirst,Trishna Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with nausea,Chhardi Jvara,thermoregulation,Sveda-vāha,Pitta
+Fever with diarrhea,Atisara Jvara,thermoregulation,Sveda-vāha,Vata and Pitta
+Fever with constipation,Vibandha Jvara,thermoregulation,Sveda-vāha,Vata
+Sun stroke,Surya Daha,thermoregulation,Sveda-vāha,Pitta
+Hypothermia,Ati Sheetata,thermoregulation,Sveda-vāha,Vata
+Hyperthermia,Ati Ushnata,thermoregulation,Sveda-vāha,Pitta
+Fluctuating body temperature,Vishama Ushna,thermoregulation,Sveda-vāha,Vata
+Sudden temperature drop,Ati Sheetata,thermoregulation,Sveda-vāha,Vata
+Sudden temperature rise,Ati Ushnata,thermoregulation,Sveda-vāha,Pitta
+Persistent low temperature,Sheetaj Lakshana,thermoregulation,Sveda-vāha,Vata
+Burning sensation during fever,Daha Jvara,thermoregulation,Sveda-vāha,Pitta
+Sweating with foul odor,Gandha Sveda,thermoregulation,Sveda-vāha,Pitta
+Sweating with no odor,Asveda,thermoregulation,Sveda-vāha,Vata
+Sweating with oily texture,Sneha Sveda,thermoregulation,Sveda-vāha,Kapha
+Sweating with stickiness,Pichhila Sveda,thermoregulation,Sveda-vāha,Kapha
+Sweating with froth,Frothy Sveda,thermoregulation,Sveda-vāha,Vata
+Excessive sweating with fatigue,Klanta Sveda,thermoregulation,Sveda-vāha,Vata
+Reduced sweating with dryness,Roukshya Sveda,thermoregulation,Sveda-vāha,Vata
+Excess sweating with burning,Daha Sveda,thermoregulation,Sveda-vāha,Pitta
+Cold sweating with weakness,Daurbalya Sveda,thermoregulation,Sveda-vāha,Vata
+Sweating with heat flashes,Daha Sveda,thermoregulation,Sveda-vāha,Pitta
+Sweating in anxiety,Udvega Sveda,thermoregulation,Sveda-vāha,Vata
+Sweating in fear,Bhaya Sveda,thermoregulation,Sveda-vāha,Vata
+Sweating in stress,Chinta Sveda,thermoregulation,Sveda-vāha,Vata
+Sweating in exertion,Sharira Shrama,thermoregulation,Sveda-vāha,Pitta
+Sweating in sleep,Nidra Sveda,thermoregulation,Sveda-vāha,Kapha
+Sweating in menopause,Rajonivritti Lakshana,thermoregulation,Sveda-vāha,Pitta
+Hot body with chills,Ushna-Sheetata,thermoregulation,Sveda-vāha,Vata and Pitta
+Cold body with fever,Sheetaj Jvara,thermoregulation,Sveda-vāha,Vata
+Burning sensation in whole body,Sarva Daha,thermoregulation,Sveda-vāha,Pitta
+Burning sensation in half body,Ardha Daha,thermoregulation,Sveda-vāha,Pitta
+Feeling of cold in whole body,Sarva Sheetata,thermoregulation,Sveda-vāha,Vata
+Feeling of cold in limbs,Anga Sheetata,thermoregulation,Sveda-vāha,Vata
+Excessive thirst with fever,Trishna Jvara,thermoregulation,Sveda-vāha,Pitta
+Loss of thirst in fever,Atrishna Jvara,thermoregulation,Sveda-vāha,Kapha
+Shivering with teeth chattering,Danta Kampa,thermoregulation,Sveda-vāha,Vata
+Alternating chills and fever,Vishama Jvara,thermoregulation,Sveda-vāha,Vata
+Hot dry skin,Daha,thermoregulation,Sveda-vāha,Pitta
+Fever with profuse sweat,Atisveda,thermoregulation,Sveda-vāha,Pitta
+Fever with scanty sweat,Asveda,thermoregulation,Sveda-vāha,Vata
+Chills with goosebumps,Loma Harsha,thermoregulation,Sveda-vāha,Vata
+Excess body dryness,Roukshya,thermoregulation,Sveda-vāha,Vata
+Excess body oiliness,Sneha,thermoregulation,Sveda-vāha,Kapha
+Burning eyes during fever,Netra Daha,thermoregulation,Sveda-vāha,Pitta
+Cold eyes during chills,Sheetata Netra,thermoregulation,Sveda-vāha,Vata
+Thirstless fever,Kapha Jvara,thermoregulation,Sveda-vāha,Kapha
+Sweating with heaviness,Gaurava Sveda,thermoregulation,Sveda-vāha,Kapha
+Sweating with lightness,Laghu Sveda,thermoregulation,Sveda-vāha,Vata
+Sudden sweat outburst,Atisveda,thermoregulation,Sveda-vāha,Pitta
+Suppressed sweating,Asveda,thermoregulation,Sveda-vāha,Vata
+Excessive sweating with odor,Gandha Sveda,thermoregulation,Sveda-vāha,Pitta
