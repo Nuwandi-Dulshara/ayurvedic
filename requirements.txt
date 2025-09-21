@@ -1,6 +1,5 @@
 streamlit
 pandas
 numpy
-difflib
 scikit-learn
 streamlit-searchbox
